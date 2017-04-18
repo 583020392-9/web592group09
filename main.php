@@ -1,4 +1,21 @@
 ﻿<!doctype html>
+<?php   $appid = "web592group09.appspot.com/";  
+ $page  = $_GET['p'];  
+ if($page=='') $page='main';  
+ $title = $page;   
+ function panel_include($title,$file,$ptype='default'){ 
+ echo "<div class='panel panel-$ptype'>"; 
+ echo "<div class='panel-heading'>$title</div>";  
+ echo "<div class='panel-body'>";  
+ if(file_exists($file)){  
+ include($file); 
+ }else{  
+ echo "ไมพ่บไฟล ์ $file "; 
+ }  echo "</div>"; 
+ echo "</div>"; 
+ }
+ ?>
+ 
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -13,20 +30,21 @@
 <link rel="stylesheet" href="assets/css/slippry.css">
 <link href="assets/css/style.css" rel="stylesheet" />
 <link rel="stylesheet" href="assets/color/default.css">
-<!-- =======================================================
-    Theme Name: Groovin
-    Theme URL: https://bootstrapmade.com/groovin-free-bootstrap-theme/
-    Author: BootstrapMade
-    Author URL: https://bootstrapmade.com
-======================================================= -->
+<!--ajax-->
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>  
+ <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script> 
+ <!--ajax-->
+ 
 <script src="assets/js/modernizr.custom.js"></script>
 </head>
 <body>
 <header>
 
-<!-- navbar--> <?php include("navbar.php"); ?>
+<!-- navbar--><?php include("navbar.php"); ?> 
 
 </header>
+
 <!-- section intro -->
 <section id="intro">
 			<ul id="slippry-slider">
@@ -56,9 +74,16 @@
 			<!-- start contact form -->
             <?php include("contact.php"); ?>
             <!-- END contact form -->
-        
+        <div class="container" id="login">
+	<div class="row">
+<div class="col-md-4 col-sm-offset-4">
+<?php panel_include("Login","user.php"); ?>
+		</div>
+	</div>
+</div>
 
 <!-- end section contact -->
+
 <footer>
 <div class="verybottom">
 	<div class="container">

@@ -14,9 +14,9 @@
 	</div>
 </div>
 
-<div class="container">
+<div class="container ">
 	<div class="row">
-		<div class="col-md-6">
+		<div class="col-md-6 col-sm-offset-3">
 			<h4><i class="icon-envelope"></i><strong>Contact form</strong></h4>
 			<p>
 				Want to work with us or just want to say hello? Don't hesitate to get in touch!
@@ -45,10 +45,13 @@
                     </div>
                     
                     <div class="text-center"><button type="submit" class="btn btn-lg btn-theme">Send Message</button></div>
+					
                 </form>
+				
     		</div>
 			</div>
 
 	</div>
 </div>
+
 </section>
