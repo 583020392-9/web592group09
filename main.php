@@ -3,7 +3,7 @@
  $page  = $_GET['p'];  
  if($page=='') $page='main';  
  $title = $page;   
- function panel_include($title,$file,$ptype='default'){ 
+function panel_include($title,$file,$ptype='default'){ 
  echo "<div class='panel panel-$ptype'>"; 
  echo "<div class='panel-heading'>$title</div>";  
  echo "<div class='panel-body'>";  
@@ -13,8 +13,21 @@
  echo "ไมพ่บไฟล ์ $file "; 
  }  echo "</div>"; 
  echo "</div>"; 
- }
+ } 
  ?>
+ <?php 
+ 
+use google\appengine\api\cloud_storage\CloudStorageTools; 
+ 
+function userpic($uid){ 
+   global $appid;  
+   $userpic="gs://$appid/{$uid}.jpg"; 
+   if(!file_exists($userpic)){ 
+   return "user.png"; 
+   } 
+   return CloudStorageTools::getImageServingUrl($userpic,["size"=>200]);
+   } 
+?>
  
 <html lang="en">
 <head>
@@ -46,81 +59,65 @@
 </header>
 
 <!-- section intro -->
-<section id="intro">
-			<ul id="slippry-slider">
-			  <li>
-				<a href="#slide1"><img src="assets/img/slide/1.jpg" alt="Welcome to Groovin!"></a>
-			  </li>
-			  <li>
-				<a href="#slide2"><img src="assets/img/slide/2.jpg"  alt="This is an awesome bootstrap template"></a>
-			  </li>
-			  <li>
-				<a href="#slide3"><img src="assets/img/slide/3.jpg" alt="Check it out, you are going to <span class='red'>♥</span> it :)"></a>
-			  </li>
-			</ul>
-</section>
+<?php
+	readfile("gs://$appid/header.html");
+	?>
+
+
 <!-- end intro -->
 
 <!-- section works -->
-<?php include("work.php"); ?>
+<?php
+
+ use google\appengine\api\users\User;
+ use google\appengine\api\users\UserService;
+ ?>
+ <div class="col-sm-9">
+<?php
+ 
+ if (UserService::isCurrentUserAdmin()){
+	panel_include($title,"body.php" ,"primary");
+ echo "<br><a href='?p=edit&file=header.html' class='btn btn-default'>แก้ไข header</a>";
+ echo "<a href='?p=edit&file=footer.html' class='btn btn-default'>แก้ไข footer</a>";
+ echo "<br><a href='?p=edit&file=body.html' class='btn btn-default'>แก้ไข body</a>";
+ echo "<br><a href='?p=edit&file=aboutus.html' class='btn btn-default'>แก้ไข about us</a>";
+ }
+?>
+</div>
+<?php
+	readfile("gs://$appid/body.html");
+?>
 <!-- section works -->
 
 <!-- Section about -->
-<?php include("aboutUs.php"); ?>
+<?php
+	readfile("gs://$appid/aboutus.html");
+	?>
 <!-- end section about -->
 
 <!-- section contact -->
 
-			<!-- start contact form -->
-            <?php include("contact.php"); ?>
-            <!-- END contact form -->
-        <div class="container" id="login">
-	<div class="row">
-<div class="col-md-4 col-sm-offset-4">
-<?php panel_include("Login","user.php"); ?>
-		</div>
-	</div>
+			<div class="col-sm-9">
+<?php panel_include($title,"body.php" ,"primary"); ?>
 </div>
-
+     
 <!-- end section contact -->
 
-<footer>
-<div class="verybottom">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<div class="aligncenter">
-                <ul class="social-network social-circle">
-                    <li><a href="#" class="icoRss" title="Rss"><i class="fa fa-rss"></i></a></li>
-                    <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
-                    <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                </ul>	
-				</div>				
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-12">
-				<div class="aligncenter">
-					<p>
-						 &copy; Groovin Theme - All right reserved
-					</p>
-                    <div class="credits">
-                        <!-- 
-                            All the links in the footer should remain intact. 
-                            You can delete the links only if you purchased the pro version.
-                            Licensing information: https://bootstrapmade.com/license/
-                            Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Groovin
-                        -->
-                        <a href="https://bootstrapmade.com/">Free Bootstrap Themes</a> by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-                    </div>
-				</div>
-			</div>
+    <div class="container" id="login">
+	<div class="row">
+<div class="col-md-4 col-sm-offset-4">
+
+ <?php panel_include("login","user.php");?>
+
 		</div>
 	</div>
 </div>
-</footer>
+
+<?php
+	readfile("gs://$appid/footer.html");
+	?>
+
+
 <a href="#" class="scrollup"><i class="fa fa-angle-up fa-2x"></i></a>
 <!-- javascript -->
 <script src="assets/js/jquery-1.9.1.min.js"></script>
@@ -136,7 +133,6 @@
 <script src="assets/js/masonry.pkgd.min.js"></script>
 <script src="assets/js/imagesloaded.js"></script>
 <script src="assets/js/jquery.nicescroll.min.js"></script>
-<script src="https://maps.google.com/maps/api/js?sensor=true"></script>
 <script src="assets/js/AnimOnScroll.js"></script>
     <script>
         new AnimOnScroll( document.getElementById( 'grid' ), {
