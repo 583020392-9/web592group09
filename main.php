@@ -76,7 +76,7 @@ function userpic($uid){
 <?php
  
  if (UserService::isCurrentUserAdmin()){
-	panel_include($title,"body.php" ,"primary");
+ panel_include($title,"body.php" ,"primary"); 
  echo "<br><a href='?p=edit&file=header.html' class='btn btn-default'>แก้ไข header</a>";
  echo "<a href='?p=edit&file=footer.html' class='btn btn-default'>แก้ไข footer</a>";
  echo "<br><a href='?p=edit&file=body.html' class='btn btn-default'>แก้ไข body</a>";

@@ -12,6 +12,6 @@
  if (UserService::isCurrentUserAdmin()){
  echo "<br><a href='main.php?p=edit&file=$page.html' class='btn btn-default'>Edit</a>";
  }
-
+ 
  }
 ?>
