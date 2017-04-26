@@ -52,10 +52,10 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio">Portfolio</a>
+                        <a href="#portfolio">Games</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#about">About</a>
+                        <a href="#about"></a>
                     </li>
                     <li class="page-scroll">
                         <a href="#contact">Contact</a>
@@ -74,7 +74,7 @@
                 <div class="col-lg-12">
                     <img class="img-responsive" src="img/profile.png" alt="">
                     <div class="intro-text">
-                        <h1 class="name">Start Bootstrap</h1>
+                        <h1 class="name">Gaming Center</h1>
                         <hr class="star-light">
                         <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
                     </div>
@@ -100,7 +100,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/cabin.png" class="img-responsive" alt="Cabin">
+                        <img src="/img1.1.jpg" class="img-responsive" alt="Cabin">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
