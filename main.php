@@ -32,7 +32,7 @@
 </head>
 
 <body id="page-top" class="index">
-<div id="skipnav"><a href="#maincontent">eiei</a></div>
+<div id="skipnav"><a href="#maincontent">ererer</a></div>
 
     <!-- Navigation -->
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
