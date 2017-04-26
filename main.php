@@ -100,7 +100,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="/img1.1.jpg" class="img-responsive" alt="Cabin">
+                        <img src="\New folder (4)\web592group09\img/img1.1.jpg" class="img-responsive" alt="Cabin">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
