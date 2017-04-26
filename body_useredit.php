@@ -3,7 +3,7 @@ use google\appengine\api\users\User;
 use google\appengine\api\users\UserService;
 
 global $appid,$user,$userdata;
-
+ $user = UserService::getCurrentUser();
 if(!$user) return;
 if($_POST["nick"]){
  $uid = $user->getUserId();
