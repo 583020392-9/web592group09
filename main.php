@@ -48,6 +48,9 @@ function userpic($uid){
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+	
+	<!-- Icon -->
+	<link rel="icon" href="game-controller.png">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -106,7 +109,7 @@ function userpic($uid){
                     <div class="intro-text">
                         <h1 class="name">Gaming Center</h1>
                         <hr class="star-light">
-                        <span class="skills">Review- Enjoy - 
+                        <span class="skills">Review - Enjoy - 
 Enticing to follow</span>
                     </div>
                 </div>
@@ -139,7 +142,7 @@ Enticing to follow</span>
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/cabin.png" Width="500" Height="100" class="img-responsive" alt="Cabin">
+                        <img src="img/portfolio/cabin.png"  class="img-responsive" alt="Cabin">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -149,7 +152,7 @@ Enticing to follow</span>
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/cake.png" class="img-responsive" alt="Slice of cake">
+                        <img src="img/portfolio/cake.png"  class="img-responsive" alt="Slice of cake">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -159,7 +162,7 @@ Enticing to follow</span>
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/circus.png" class="img-responsive" alt="Circus tent">
+                        <img src="img/portfolio/circus.png"  class="img-responsive" alt="Circus tent">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -169,7 +172,7 @@ Enticing to follow</span>
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/game.png" class="img-responsive" alt="Game controller">
+                        <img src="img/portfolio/game.png"  class="img-responsive" alt="Game controller">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -179,7 +182,7 @@ Enticing to follow</span>
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/safe.png" class="img-responsive" alt="Safe">
+                        <img src="img/portfolio/safe.png"  class="img-responsive" alt="Safe">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -189,7 +192,7 @@ Enticing to follow</span>
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="Submarine">
+                        <img src="img/portfolio/submarine.png"  class="img-responsive" alt="Submarine">
                     </a>
                 </div>
             </div>
@@ -216,7 +219,7 @@ Enticing to follow</span>
 			<div class="roles">
 				<h5><strong>Jirawat  Khumsiri</strong></h5>
 				<p>
-					CEO - Founder
+					Admin
 				</p>
 				<ul class="social-profile">
 					<li><a href="https://www.facebook.com/jirawat.kumsiri/html/"><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -232,7 +235,7 @@ Enticing to follow</span>
 			<div class="roles">
 				<h5><strong>Puwit  Chanapan</strong></h5>
 				<p>
-					Lead designer
+					Admin
 				</p>
 				<ul class="social-profile">
 					<li><a href="https://www.facebook.com/oat.puwit/html/"><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -248,7 +251,7 @@ Enticing to follow</span>
 			<div class="roles">
 				<h5><strong>Ratthawit  Johnburee</strong></h5>
 				<p>
-					Customer support
+					Admin
 				</p>
 				<ul class="social-profile">
 					<li><a href="https://www.facebook.com/ake.ratthawit/html/"><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -262,9 +265,9 @@ Enticing to follow</span>
 			<div class="team-box">
 			<img src="img/dummies/arm.jpg" alt=""  width="100%" height="280" />
 			<div class="roles">
-				<h5><strong>Nutthapon  Pitha</strong></h5>
+				<h5><strong>Nutthapon  Phitha</strong></h5>
 				<p>
-					Coffee maker
+					Admin
 				</p>
 				<ul class="social-profile">
 					<li><a href="https://www.facebook.com/armfreez/html/"><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -412,7 +415,8 @@ Enticing to follow</span>
 
 
 </p></h2>
-                            <br><iframe width="560" height="315" src="https://www.youtube.com/embed/KlRzpxi7WZQ" frameborder="0" allowfullscreen></iframe>
+                           <br><h3>==== ตัวอย่างเกมส์ ====</br></h3> 
+						   <br><iframe width="560" height="315" src="https://www.youtube.com/embed/KlRzpxi7WZQ" frameborder="0" allowfullscreen></iframe>
 						   <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -450,7 +454,8 @@ Enticing to follow</span>
                             <hr class="star-primary">
                             <img src="img/portfolio/cake.png"class="img-centered" alt=""  height="500">
                             <h2><p>“Resident Evil 7″ เป็นผลงานเกมจากทาง Capcom ที่สร้างเสียงฮือฮาในงาน E3 2016 ที่ผ่านมา ด้วยภาพลักษณ์ที่สยดสยอง ความกดดันที่ถาโถมใส่คนเล่นจนพาลหัวใจจะวายตายคาเครื่อง มีกำหนดลงให้ PC / PS4 / XboxOne และ PlayStation VR ตัวเกมจะถูกนับเป็นภาคหลักของซีรี่ยส์ Resident Evil อย่างเป็นทางการ ที่เปลี่ยนรูปแบบการเล่นจากแนวยิงแหลกแจกกระสุนตั้งแต่ภาค 4-5-6 มาเป็นแนวสยองขวัญเอาตัวรอดเต็มสูบ ซึ่งพัฒนาภายใต้แนวคิด “opens the door to a trulty terrifying horror experience.” หรือ “เปิดประตูสู่ประสบการณ์สยองขวัญที่แท้จริง” และตัวเกมจะใช้เอนจิ้นตัวใหม่ที่ชื่อ “RE Engine” ในการพัฒนาซึ่งทำมาเพื่อซัพพอร์ทระบบ PlayStation VR  นั่นเอง</p></h2>
-                          <br><iframe width="560" height="315" src="https://www.youtube.com/embed/dR1iZkGhznU" frameborder="0" allowfullscreen></iframe>
+                          <br><h3>==== ตัวอย่างเกมส์ ====</br></h3> 
+						  <br><iframe width="560" height="315" src="https://www.youtube.com/embed/dR1iZkGhznU" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -492,7 +497,8 @@ Enticing to follow</span>
 ในขณะที่ Kevin Durant ที่ประกาศว่าเขากำลังจะย้ายไปร่วมทีม Golden State Warriors ซึ่งในขณะนี้ทีมกำลังทำผลงานได้ดีด้วยการเอาชนะได้ถึง 73 เกมในฤดูกาล 2015-16 โดยมีขุมกำลังสำคัญคือ LeBron James ซึ่งนั่น็ทำให้การจัดการ Competitive Balance ของ Durant กับ  Warriors อาจมีปัญหา เพราะในทีม Warriors มีผู้เล่นที่ได้เรตคะแนนเกิน 90 อยู่แล้ว 3 คน หากเพิ่ม Durant ที่มีเรตคะแนนอยู่ที่ 94 จะทำให้ Warriors มีผู้เล่นที่มีเรตคะแนนเกิน 90 อยู่ถึง 4 คนซึ่งไม่เคยปรากฎมาก่อนในเกม ซึ่งก็ต้องดูกันว่าทางผู้พัฒนาจะจัดการอย่างไรกับปัญหานี้
 
 รายละเอียดอื่นๆของ NBA 2k17 ยังไม่ได้มีการเปิดเผยออกมามากนัก ที่เห็นได้ชัดในขณะนี้ก็คือเกมน่าจะมีระบบสแกนใบหน้าที่ดีขึ้นกว่าเดิม</p></h2>
-                            <br><iframe width="560" height="315" src="https://www.youtube.com/embed/ZiuZ8DlkNrU" frameborder="0" allowfullscreen></iframe>
+                            <br><h3>==== ตัวอย่างเกมส์ ====</br></h3> 
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/ZiuZ8DlkNrU" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -530,7 +536,8 @@ Enticing to follow</span>
                             <hr class="star-primary">
                             <img src="img/portfolio/game.png" class="img-centered" alt=""  height="500">
                             <h2><p>ชื่อเสียงของเกมนี้อยู่ที่ภาพสวย ๆ กินสเป็กเครื่องหนัก ๆ ซึ่งเรื่องของภาพนั้นสวยขึ้นจริงครับ มีการเพิ่มรายละเอียดมากมายจากเวอร์ชัน console รุ่นเก่า ไม่ว่าจะเป็นระบบแสง-เงาที่ดูสมจริงมากขึ้น พื้นผิววัตถุต่าง ๆ มีรายละเอียดมากขึ้น การเบลอภาพพื้นหลัง (depth of field) ที่ดูสวยและสมจริงขึ้น และอีกหลาย ๆ อย่างที่ปรับปรุงขึ้นมาสำหรับ PC และ console รุ่นใหม่ ๆ ตามที่ได้เห็นการเปรียบเทียบกันไปแล้วระหว่าง PS3 และ PS4 แต่สิ่งที่น่าประทับใจและเหนือความคาดหมายที่สุดคือ ตัวเกมกินสเป็กไม่สูงจริง ๆ ครับ ตามที่เคยประกาศไว้ตั้งแต่ต้นปี เครื่องที่ผมใช้เล่นคือโน๊ตบุ๊ก Dell Inspiron 7447 (รุ่นเดียวกันกับจ่าพิชิต) ที่ใช้ชิปกราฟิก Nvidia Geforce GTX850M ซึ่งก็ไม่ใช่รุ่นที่จะแรงอะไรมากมายถ้าเทียบกับรุ่นใหญ่ ๆ</p><h2>
-                            <br><iframe width="560" height="315" src="https://www.youtube.com/embed/nBS3MUWrfGg" frameborder="0" allowfullscreen></iframe>
+                            <br><h3>==== ตัวอย่างเกมส์ ====</br></h3> 
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/nBS3MUWrfGg" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -568,7 +575,8 @@ Enticing to follow</span>
                             <hr class="star-primary">
                             <img src="img/portfolio/safe.png" class="img-centered" alt=""  height="500">
                             <h2><p>เกม Call of Duty: Infinite Warfare น่าจะเป็นเกมที่มีการพัฒนาที่น้อยที่สุด ตรงนี้อย่าเข้าใจผิดนะครับ...ตัวเกมยังคงมาตรฐานของซีรี่ส์เอาไว้เพียบพร้อม เพียงแต่ทีมงานคิดว่าซีรีส์นี้กำลังเผชิญหน้ากับปัญหา Franchise Fatigue คือออกมาถี่เกินไปและเหมือนเดิมมากเกินไป สำหรับแฟนพันธุ์แท้อาจจะยังมีความสุขกับมันได้ ทว่าปีนี้ยังมี FPS อื่นๆ ที่น่าสนใจกว่าเป็นตัวเลือกอีกเพียบ</p></h2>
-                            <br><iframe width="560" height="315" src="https://www.youtube.com/embed/wtm52acC75I" frameborder="0" allowfullscreen></iframe>
+                            <br><h3>==== ตัวอย่างเกมส์ ====</br></h3> 
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/wtm52acC75I" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -607,7 +615,8 @@ Enticing to follow</span>
                             <img src="img/portfolio/submarine.png" class="img-centered" alt=""  height="500">
                             <h2><p> ซิมส์ 3 ในครั้งนี้ก็ยังคงมีที่ให้สำหรับพวกเทพและเหล่าประชากรผู้เล่นธรรมดา ได้สนุกสนานไปกับการออกแบบสารพัดสิ่งตั้งแต่ทรงผม สีโซฟา ยันกำหนดชีวิตซิมส์ พ่วงทำซีรีย์เกาหลีครับ
       จากโลกในซิมส์ที่จำกัดอยู่แค่หน้าบ้านตัวเอง ได้กลับกลายขยายกว้างและคงอยู่นานในทันที่ซิมส์ของคุณได้ย่างก้าวเข้าสู่โลกใบใหม่ ซิมส์ของคุณเติบโตขึ้นเช่นเดียวกันกับซิมส์ตัวอื่นที่อยู่รายล้อม เป็นวัฏจักรชีวิตที่ลื่นไหลตามปกติ โดยใน The Sims 3 ใหม่นี้ทางผู้พัฒนาได้เพิ่มเติมช่วงชีวิตที่ 6 ที่เรียกว่า วัยผู้ใหญ่ตอนต้นให้ยาวนานกว่าปกติ ท้าทายกระแสเวลาที่ไม่ยอมหยุดไหล จะได้ไม่เป็นการบังคับให้ผู้เล่นต้องซื้อภาคเสริมแค่เพราะยังไม่สะใจอีกต่อไป</p></h2>
-                            <br><iframe width="560" height="315" src="https://www.youtube.com/embed/KXZxhmbbHk4" frameborder="0" allowfullscreen></iframe>
+                            <br><h3>==== ตัวอย่างเกมส์ ====</br></h3> 
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/KXZxhmbbHk4" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
