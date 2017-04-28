@@ -109,8 +109,7 @@ function userpic($uid){
                     <div class="intro-text">
                         <h1 class="name">Gaming Center</h1>
                         <hr class="star-light">
-                        <span class="skills">Review - Enjoy - 
-Enticing to follow</span>
+                        <span class="skills">Review - Enjoy - Enticing to follow</span>
                     </div>
                 </div>
             </div>
@@ -194,11 +193,20 @@ Enticing to follow</span>
                         </div>
                         <img src="img/portfolio/submarine.png"  class="img-responsive" alt="Submarine">
                     </a>
+		
                 </div>
             </div>
         </div>
     </section>
-
+	<center><h2><ul> <a href="main.php#portfolio" >1</a>
+		<a href="main2.php#portfolio2">2</a>
+		<a href="main.php#portfolio3">3</a>
+		<a href="main.php#portfolio4">4</a>
+		<a href="main.php#portfolio5">5</a>
+		<a href="main.php#portfolio6">6</a> 
+		<a href="main.php#portfolio7">7</a> 
+		<a href="main.php#portfolio8">8</a> </ul></h2></center>
+	
 
     <section id="about" class="section">
 <div class="container">
@@ -343,8 +351,8 @@ Enticing to follow</span>
                 <div class="row">
                     <div class="footer-col col-md-4">
                         <h3>Location</h3>
-                        <p>3481 Melrose Place
-                            <br>Beverly Hills, CA 90210</p>
+                        <p>SC 06 FACULTY OF SCIEN
+                            <br>KHON KAEN UNIVERSITY</p>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Around the Web</h3>
@@ -643,6 +651,7 @@ Enticing to follow</span>
             </div>
         </div>
     </div>
+	
  <footer class="text-center page-footer">
  <?php
 	readfile("gs://$appid/footer.html");
@@ -667,7 +676,8 @@ Enticing to follow</span>
 
     <!-- Theme JavaScript -->
     <script src="js/freelancer.min.js"></script>
-
+	
+	
 </body>
 
 </html>
