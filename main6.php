@@ -85,7 +85,7 @@ function userpic($uid){
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio2">Games</a>
+                        <a href="#portfolio4">Games</a>
                     </li>
                     <li class="page-scroll">
                         <a href="#about">about</a>
@@ -125,7 +125,7 @@ function userpic($uid){
 </div>
 </div>
     <!-- Portfolio Grid Section -->
-    <section id="portfolio2">
+    <section id="portfolio4">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -141,7 +141,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/dota2.png"  class="img-responsive" alt="Cabin">
+                        <img src="img/portfolio/sniper.png"  class="img-responsive" alt="Cabin">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -151,7 +151,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/alive.png"  class="img-responsive" alt="Slice of cake">
+                        <img src="img/portfolio/deads.png"  class="img-responsive" alt="Slice of cake">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -161,7 +161,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/battle4.png"  class="img-responsive" alt="Circus tent">
+                        <img src="img/portfolio/watchdog.png"  class="img-responsive" alt="Circus tent">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -171,7 +171,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/left4.png"  class="img-responsive" alt="Game controller">
+                        <img src="img/portfolio/deadby.png"  class="img-responsive" alt="Game controller">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -181,7 +181,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/fra3.png"  class="img-responsive" alt="Safe">
+                        <img src="img/portfolio/bully.png"  class="img-responsive" alt="Safe">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -191,7 +191,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/counter.png"  class="img-responsive" alt="Submarine">
+                        <img src="img/portfolio/lucius.png"  class="img-responsive" alt="Submarine">
                     </a>
 		
                 </div>
@@ -412,19 +412,17 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>DOTA 2</h2>
+                            <h2>Sniper Elite III</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/dota2.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/sniper.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
-                            <br><b>รูปแบบการเล่นเกม DOTA 2 เป็นเกมการต่อสู้ระหว่างกองกำลังสองฝ่าย คือฝ่าย Radiant และ ฝ่าย Dire 
-							โดยผู้เล่น 1 คนรับบทฮีโร่ 1 ตัว สามารถเลือกได้จากจำนวนฮีโร่ที่มีอยู่กว่าร้อยตัว แบ่งเป็นสายหลักๆ 3 แบบตามสไตล์ของแต่ละคน คือ Strength, Agility และ Intelligence 
-							จากนั้นจะเริ่มเปิดศึก 5 vs 5 โดยมีจุดประสงค์ในการเล่นคือเก็บเลเวลเพื่อบุกฝ่าดงของฮีโร่ ครีป และป้อมปราการ ลุยเข้าไปทำลายฐานของอีกฝั่งให้ได้ 
-							พร้อมกับต้องป้องกันฐานของตนเองจากการรุกล้ำของศัตรูไปในเวลาเดียวกัน และนี่คือเสน่ห์ของเกมที่ต้องใช้ทักษะหลายด้าน ตัดสินกันด้วยไหวพริบ ความชำนาญ 
-							การเสียสละเพื่อทีม หรือแม้กระทั่งโชคช่วยอีกด้วย ทำให้เป็นเกมที่ไม่ซ้ำรูปแบบ มีการคิดค้นเทคนิคการเล่นใหม่ๆ ออกมาอยู่เสมอ และตอบสนองความมันส์ถึงขีดสุดได้ภายในเวลาเพียงไม่เกิน 1 ชั่วโมง ที่						ี่สำคัญช่วงเวลาแห่งการปะทะนั้นหากพลาดพลั้งเพียงเสี้ยววินาทีก็มีโอกาสพลิกเกมได้จากหน้ามือเป็นหลังมือเลยทีเดียว จึงไม่แปลกที่ได้รับการกล่าวขานถึงมากที่สุด จนพัฒนาเป็นการกีฬา e-Sports 
-							อย่างเต็มตัว มีรายการแข่งขันใหญ่ๆมากมายทั้งในและต่างประเทศ สร้างชื่ออย่างยิ่งใหญ่จนเรียกว่าไม่มีใครไม่รู้จักเกมนี้ “เกม DOTA”
+                            <br><b>สไนเปอร์ อีลีต 3 เป็นวิดีโอเกมยิงมุมมองบุคคลที่สามที่พัฒนาโดย Rebellion Developments และเผยแพร่โดย 505 Games 
+							เป็นวิดีโอเกมภาคที่สามของสไนเปอร์ อีลีต โดยภาคนี้เป็นภาคต่อจาก สไนเปอร์ อีลีต วี 2 โดย Karl Fairburne 
+							เจ้าหน้าที่ของสำนักบริการด้านยุทธศาสตร์ที่ได้ไปเข้าร่วมในการทัพแอฟริกาเหนือที่แนวรบด้านเมดิเตอร์เรเนียนในช่วงสงครามโลกครั้งที่สอง เพื่อทำลายรถถังลันด์ครอยเซอร์ พี.1000 
+							รัตต์อาวุธลับของกองทัพแอฟริกา คอร์ของนาซีเยอรมนี
 						</br></b>
                            <h3>==== ตัวอย่างเกมส์ ====</h3> 
-						   <br><iframe width="560" height="315" src="https://www.youtube.com/embed/NXw6jQWPQAw" frameborder="0" allowfullscreen></iframe>
+						   <br><iframe width="560" height="315" src="https://www.youtube.com/embed/C8mtwzlRqYM" frameborder="0" allowfullscreen></iframe>
 						   <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -458,15 +456,17 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>I am Alive</h2>
+                            <h2>Dead Space 3</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/cake.png"class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/deads.png"class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3> 
-                            <br><b>I am Alive เป็นเกมชื่อดังจากฝั่งคอนโซลซึ่งได้พอร์ทเอามาให้ทางฝั่ง PC ได้เอามาเล่นกันบ้าง จริงๆ แล้วตัวเกมมีอุปสรรคหลายอย่างมาก 
-							ตั้งแต่โดนตัดงบไปจนถึงการเปลี่ยนคอนเชปเกมไปจากเดิมที่โปรโมทครั้งแรก ทำให้ตัวเกมดาวเกรดคุณภาพลงไปจนน่าเสียดาย แต่ตัวเกมก็ยังมอบความบันเทิงและความคุ้มค่าในการเล่นสูงครับ
+                            <br><b>เป็นวีดิโอเกมยิงปืนสามคน พัฒนาโดย Visceral Games และจัดจำหน่ายโดย Electronic Arts โดยประกาศในงาน E3 2012 ในวันที่ 4 มิถุนายน ค.ศ. 2012
+							และออกจำหน่ายในเดือนกุมภาพันธ์ ค.ศ. 2013 เป็นภาคต่อจากเดดสเปช 2 และเป็นเกมที่สามของซีรีส์เกมเดดสเปช ส่วนใหญ่ตั้งอยู่บนดาวเคราะห์แช่แข็งของ Tau Volantis 
+							เกมต่อไปนี้ตัวละครเอกคือ ไอแซค คลาร์ก และ จอห์น คาร์เวอร์ ขณะที่พวกเขาพยายามที่จะยุติการคุกคามของ Necromorphเดดสเปช 3 ได้รับการวิจารณ์อย่างดีจากนักวิจารณ์เกมมากที่สุด 
+							วิจารณ์ยกย่องการเล่นเกมของเกมที่คุ้มค่า แม้ว่าการวิจารณ์ที่รุนแรงเป็นผู้กำกับที่มุ่งเน้นในการดำเนินเรื่องความน่ากลัว เช่นเดียวกับเรื่องราวที่อ่อนแอและเลื่อนลอยเมื่อเทียบกับเกมก่อนหน้านี้
 							<br></b>
 							<h3>==== ตัวอย่างเกมส์ ====</h3> 
-						  <br><iframe width="560" height="315" src="https://www.youtube.com/embed/alg7Ouyfdyw" frameborder="0" allowfullscreen></iframe>
+						  <br><iframe width="560" height="315" src="https://www.youtube.com/embed/r3kQ4iF62_Q" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -500,14 +500,17 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Battlefield 4</h2>
+                            <h2> Watch Dogs 2 </h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/battle4.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/watchdog.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
-                            <br><b>โดยจากเรื่องราวที่ได้ปล่อยออกมานั้นตัวร้ายตัวเอ้ในภาคนี้น่าจะเป็นทางฝั่งจีนนั่นเองที่เป็นชนวนในการจุดสงครามให้เริ่มขึ้น โดยผู้เล่นจะได้รับบทเป็นจ่า Daniel Recker 
-							หนึ่งในสมชิกระดับพระกาฬของหน่วย Tombstone ที่จะต้อง “ผ่านความสับสนอลหม่านที่เกิดขึ้นรอบๆตัวเพื่อช่วยความหวังสุดท้ายของสันติภาพ”</br></b>
+                            <br><b>วอตช์ดอกส์ 2 เป็นเกมแนวแอ็กชันผจญภัยโลกเปิด ผลิตและจำหน่ายโดยยูบิซอฟต์ เป็นภาคต่อของเกม วอตช์ดอกส์ เกมออกจำหน่ายทั่วโลกบนเครื่องไมโครซอฟท์ วินโดวส์ เพลย์สเตชัน 4 และเอกซ์บอกซ์ วัน โดยออกจำหน่ายในเดือนพฤศจิกายน ค.ศ. 2016
+							เกมเล่นในมุมมองบุคคลที่สาม สำรวจเมืองด้วยเท้าหรือยานพาหนะ ฉากในเกมเป็นเมืองที่เลียนแบบบริเวณอ่าวซานฟรานซิสโก ผู้เล่นควบคุมตัวละครมาร์คัส ฮอลโลเวย์ นักเลงคอมพิวเตอร์ที่ทำงานกับกลุ่มเจาะข้อมูล เดดเซ็ก 
+							เพื่อโค่นล้มระบบตรวจตราของเมือง การทำภารกิจให้เสร็จสมบูรณ์นั้นมีหลายวิธี 
+							และการทำภารกิจเสร็จแต่ละครั้งจะได้ยอดผู้ติดตามในเดดเซ็กเพิ่ม ระบบผู้เล่นหลายคนมีไว้สำหรับเล่นต่อสู้หนึ่งต่อหนึ่ง และเชื่อมต่อกับผู้เล่นอีกคนเพื่อกำจัดผู้เล่นที่สร้างความหายนะในเกม									
+							</br></b>
                             <h3>==== ตัวอย่างเกมส์ ====</h3> 
-							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/3DdDaeSt1AA" frameborder="0" allowfullscreen></iframe>
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/0xv7034ESJg" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -541,15 +544,16 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Left 4 Dead 2</h2>
+                            <h2> Dead by Daylight </h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/left4.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/deadby.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
-                            <br><b>เนื้อเรื่องจากภาคแรกเกิดขึ้นในช่วงสองสัปดาห์หลังการติดเชื้อ CEDA ไม่สามารถควบคุมการแพร่ระบาดได้อีกต่อไปจึงต้องขอความร่วมมือจากกองทัพมาช่วยลี้ภัยผู้คนและกำจัดผู้ติดเชื้อที่เกินความควบคุม, ผู้รอดชีวิต 4 คนใน Pennsylvania ต่อสู้เอาตัวรอดเพื่อไปยังจุด Evac จุดสุดท้าย และเดินทางขึ้นเหนือไปยัง Candy Mountain, ในภาคสอง หนึ่งสัปดาห์หลังจากภาคแรก สามสัปดาห์หลังจากการติดเชื้อ ผู้รอดชีวิตใน Georgia 4 คนต้องต่อสู้เพื่อเดินทางไปยังขบวน Evac ทางใต้
-
-ใน Left 4 Dead 2 นี้มีส่วนที่มีความเป็นเนื้อเรื่องมากขึ้น การเชื่อมต่อเนื้อเรื่องในแต่ละ Campaign นั้นมีมากขึ้น ในขณะที่่ส่วนของการใบ้เนื้อเรื่องต่างๆตามสภาพแวดล้อมและ grafitti นั้นมีน้อยลง นับว่าเป็นข้อเสียเล็กๆน้อยๆอย่างนึง ถ้าไม่ได้ใส่ใจเนื้อเรื่องก็ข้ามไปได้เลย น่าเสียดายที่บางครั้งความคิดในการเล่าเรื่องสไตล์แบบเกม Portal หรือ Left 4 Dead ภาคแรกนั้นเป็นสิ่งที่น่าสนใจ แต่ข้อเสียของมันคือการที่ผู้เล่นบางกลุ่มไม่สามารถเข้าถึงเนื้อเรื่องได้ หรือยากที่จะเข้าถึง เพราะต้องคอยเก็บรายละเอียดหยิบย่อยของเนื้อเรื่องที่กระจัดกระจายเป็นจิ๊กซอว์อยู่ทั่วตัวเกมจนบางครั้งสำหรับคนที่ตั้งใจจะติดตามเสพเนื้อเรื่องอย่างจริงๆจังๆก็ทำให้เหนื่อยเอาอยู่เมื่อต้องมานั่งคุ้ยหาที่มาที่ไปของเนื้อเรื่อง ฟังทุกๆอย่่างในเกม อ่าน graffiti ทุกแห่งที่ผ่าน และค้นตัว file game เพื่อหาบทสนทนาที่เกี่ยวข้องกับเนื้อเรื่องอีก</br><b>
+                            <br><b>Dead by Daylight  เกมมัลติเพลเยอร์ออนไลน์ โดยผู้เล่นจะต้องรับบทเป็นเหยื่อและฆาตกร หน้าที่ของเหยื่อก็คือ 
+							ทำการซ่อมเครื่องปั่นไฟตามจุดต่างๆ ในฉาก ก่อนที่จะหาทางเปิดประตูเพื่อหลบหนีออกไป ส่วนผู้เล่นที่เลือกเล่นเป็นฝ่ายฆาตกร 
+							มีหน้าที่เดียวเท่านั้น คือ สังหารเหยื่อให้มากที่สุดที่จะทำได้ 
+							</br><b>
                             <h3>==== ตัวอย่างเกมส์ ====</h3> 
-							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/WqaPTbvU6lA" frameborder="0" allowfullscreen></iframe>
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/hpQM2bgeDeY" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -583,15 +587,19 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Far Cry 3</h2>
+                            <h2>Bully</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/fra3.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/bully.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
-                            <br><b>เกมฟาร์ครายภาคสามนี้ ถูกพัฒนาโดย Ubisoft Montreal ทีมงานชุดเดิมจากสองภาคแรก แถมยังเป็นทีมสร้างผู้พัฒนาเกมตระกูลทอมแคลนซี่ และซีรีส์แอสซาซินครีด รวมไปถึงเกมจากหนังอวตาร์อีกด้วย ไม่แปลกใจเลยว่าทำไมเกมภาคนี้ถึงได้รับอิทธิพลมาจากเกมอื่นหรือมีกลิ่นอายภาพยนตร์บางเรื่องผสมอยู่ โดยตัวเกมภาคใหม่ยังคงใช้เอนจิ้นตัวเดียวกับภาคก่อนแต่เป็นเวอร์ชันอัพเกรด Dunia Engine 2 ส่งผลให้ภาพกราฟฟิกถูกยกระดับขึ้นไปอีกขั้น ซึ่งต้องแลกมาด้วยสเปคคอมระดับสูง และที่สำคัญคือการ์ดจอต้องแรงจริงถึงจะเอาเกมนี้อยู่
-       
-       	เนื้อเรื่องในเกมนั้น จะกล่าวถึงวัยรุ่นชาวอเมริกันกลุ่มหนึ่ง นำโดยสามพี่น้องตระกูล Brody ที่ตัดสินใจจัดทริปพิเศษในช่วงวันหยุดยาว พาแฟนและเพื่อนเดินทางมาท่องเที่ยวยังเกาะเขตร้อนในแถบทวีปเอเชียตะวันออกเฉียงใต้ แต่ดันเกิดไอเดียแผลงชักชวนกันไปเล่นดิ่งพสุธาจนสุดท้ายพลัดหลงไปตกลงกลางเกาะลึกลับแห่งหนึ่งที่มีพวกโจรสลัดเสื้อแดงปกครองอยู่ และทำให้พวกเขาทั้ง 7 คนถูกจับตัวไปเป็นเชลย แต่โชคยังดีที่หนึ่งในนั้นหนีรอดออกมาได้ และได้รับการช่วยเหลือจากกองกำลังต่อต้านชาวพื้นเมือง จึงเกิดเป็นการผจญภัยปลุกสัญชาตญาณดิบเพื่อชิงผองเพื่อนกลับคืนมา ไปพร้อมๆกับการปลดแอกดินแดนแห่งนี้</br></b>
+                            <br><b>บูลลี เป็นวิดีโอเกมแนวโอเพนเวิลด์และประเภทแอ็คชั่นผจญภัย พัฒนาโดย Rockstar Vancouver วางจำหน่ายโดย Rockstar Games 
+							สำหรับเครื่องเล่นเพลย์สเตชัน 2 ในวันที่ 17 ตุลาคม ค.ศ. 2006 โดยวางจำหน่ายเมื่อวันที่ 17 ตุลาคม 2006 สำหรับเครื่อง เพลย์สเตชัน โดยภายหลังมีเวอร์ชันรีมาสเตอร์ , 
+							ที่รู้จักกันดีใน Scholarship Editon พัฒนาโดย Rockstar New England พัฒนาโดย Rockstar New England และวางจำหน่ายเมื่อ 4 มีนาคม พ.ศ. 2552 สำหรับเครื่อง 
+							เอกซ์บอกซ์ 360 และ เครื่อง วี (เครื่องเล่นเกม) , และวางจำหน่าย 21 ตุลาคม พ.ศ. 2552 สำหรับ ไมโครซอฟท์ วินโดว์ และล่าสุดปี 2559 บูลลี่ ได้ถูกนำมา remaster 
+							ใหม่อีกครั้ง ในวาระฉลองครบรอบ10ปีของเกม โดยใช้ชื่อว่า bully aniversary edition ในระบบ ios และ android ทั้งยังปรับกราฟริคให้สวยขึ้นกว่าเดิม
+							ตัวเกมอยู่ในเมืองสุมมตินามว่า Bullworth , โดยเนื้อเรื่องจะพูดถึงนักเรียนและความพยายามของเขาถึงการจัดการระบบของโรงเรียน , ความโอเพนเวิลด์ของตัวเกมทำให้ผู้เล่นสามารถโลดเล่นในเมือง Bullworth
+							</br></b>
                             <h3>==== ตัวอย่างเกมส์ ====</h3> 
-							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/R1p9zhCfPTs" frameborder="0" allowfullscreen></iframe>
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/Wa8lmNPgVkg" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -625,14 +633,16 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Counter-Strike: Global Offensive</h2>
+                            <h2>Lucius</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/counter.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/lucius.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
-                            <br><b>เคาน์เตอร์-สไตรก์: โกลบัลออฟเฟนซิฟ (อังกฤษ: Counter-Strike: Global Offensive, บ้างย่อเป็น CS:GO) เป็นวิดีโอเกมออนไลน์ประเภทยิงทางยุทธวิธีมุมมองบุคคลที่หนึ่ง พัฒนาโดย วาล์ว คอร์เปอเรชั่น และฮิตเดน แพทซ์ เอ็นเตอร์เทนเมนท์ ซึ่งเป็นเกมชุดที่ 4 จากแฟรนไชส์เคาน์เตอร์-สไตรก์
-							แนวยิงมุมมองบุคคลที่1 ซึ่งจะมี 2ฝั่ง คือ ผู้ต่อต้านผู้ก่อการร้าย กับ ผู้ก่อการร้าย จะมีรูปแบบการเล่นมีโหมดแตกต่างกันออกไป 1.แคสชวล 2.เดทแมตซ์ 3.ทำลายล้าง 4.คลาสสิค 5.แข่งขัน ทุกโหมดนั้น จะมีระบบสุ่มของให้กับผู้เล่นอีกด้วย</br></b>
+                            <br><b>เกม Lucius เกมจิตๆที่เราจะได้เล่นเป็นเด็กผีที่กำเนิดมาจากซาตาน(ในเกมเรียกว่า Lucifer) ในบ้านเศรษฐีหลังหนึ่ง ภารกิจหลักๆของเราคือการฆ่าทุกคนในบ้านโดยการทำให้เสมือนว่ามันเป็นอุบัติเหตุมากที่สุด(หรอ?)
+							เพื่อนำวิญญาณไปสังเวยให้กับซาตานนั่นเอง เกมนี้ไม่เหมาะอย่างยิ่งกับคนที่อายุต่ำกว่า 18 ปีนะครับ มีทั้งความรุนแรงและภาพโป๊อีกด้วย
+							
+							</br></b>
                             <h3>==== ตัวอย่างเกมส์ ====</h3> 
-							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/YdJsh0Iip8g" frameborder="0" allowfullscreen></iframe>
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/A1tEYD-Ebcs" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>

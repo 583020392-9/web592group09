@@ -200,12 +200,12 @@ function userpic($uid){
     </section>
 	<center><h2><ul> <a href="main.php#portfolio" >1</a>
 		<a href="main2.php#portfolio2">2</a>
-		<a href="main.php#portfolio3">3</a>
-		<a href="main.php#portfolio4">4</a>
-		<a href="main.php#portfolio5">5</a>
-		<a href="main.php#portfolio6">6</a> 
-		<a href="main.php#portfolio7">7</a> 
-		<a href="main.php#portfolio8">8</a> </ul></h2></center>
+		<a href="main3.php#portfolio3">3</a>
+		<a href="main4.php#portfolio4">4</a>
+		<a href="main5.php#portfolio5">5</a>
+		<a href="main6.php#portfolio6">6</a> 
+		<a href="main7.php#portfolio7">7</a> 
+		<a href="main8.php#portfolio8">8</a> </ul></h2></center>
 	
 
     <section id="about" class="section">

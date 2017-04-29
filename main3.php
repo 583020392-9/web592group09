@@ -85,7 +85,7 @@ function userpic($uid){
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio2">Games</a>
+                        <a href="#portfolio3">Games</a>
                     </li>
                     <li class="page-scroll">
                         <a href="#about">about</a>
@@ -125,7 +125,7 @@ function userpic($uid){
 </div>
 </div>
     <!-- Portfolio Grid Section -->
-    <section id="portfolio2">
+    <section id="portfolio3">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -141,7 +141,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/dota2.png"  class="img-responsive" alt="Cabin">
+                        <img src="img/portfolio/walkd.png"  class="img-responsive" alt="Cabin">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -151,7 +151,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/alive.png"  class="img-responsive" alt="Slice of cake">
+                        <img src="img/portfolio/pes2016.png"  class="img-responsive" alt="Slice of cake">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -161,7 +161,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/battle4.png"  class="img-responsive" alt="Circus tent">
+                        <img src="img/portfolio/stard.png"  class="img-responsive" alt="Circus tent">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -171,7 +171,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/left4.png"  class="img-responsive" alt="Game controller">
+                        <img src="img/portfolio/out.png"  class="img-responsive" alt="Game controller">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -181,7 +181,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/fra3.png"  class="img-responsive" alt="Safe">
+                        <img src="img/portfolio/south.png"  class="img-responsive" alt="Safe">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -191,7 +191,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/counter.png"  class="img-responsive" alt="Submarine">
+                        <img src="img/portfolio/mad.png"  class="img-responsive" alt="Submarine">
                     </a>
 		
                 </div>
@@ -412,19 +412,14 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>DOTA 2</h2>
+                            <h2>THE WALKING DEAD</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/dota2.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/walkd.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
-                            <br><b>รูปแบบการเล่นเกม DOTA 2 เป็นเกมการต่อสู้ระหว่างกองกำลังสองฝ่าย คือฝ่าย Radiant และ ฝ่าย Dire 
-							โดยผู้เล่น 1 คนรับบทฮีโร่ 1 ตัว สามารถเลือกได้จากจำนวนฮีโร่ที่มีอยู่กว่าร้อยตัว แบ่งเป็นสายหลักๆ 3 แบบตามสไตล์ของแต่ละคน คือ Strength, Agility และ Intelligence 
-							จากนั้นจะเริ่มเปิดศึก 5 vs 5 โดยมีจุดประสงค์ในการเล่นคือเก็บเลเวลเพื่อบุกฝ่าดงของฮีโร่ ครีป และป้อมปราการ ลุยเข้าไปทำลายฐานของอีกฝั่งให้ได้ 
-							พร้อมกับต้องป้องกันฐานของตนเองจากการรุกล้ำของศัตรูไปในเวลาเดียวกัน และนี่คือเสน่ห์ของเกมที่ต้องใช้ทักษะหลายด้าน ตัดสินกันด้วยไหวพริบ ความชำนาญ 
-							การเสียสละเพื่อทีม หรือแม้กระทั่งโชคช่วยอีกด้วย ทำให้เป็นเกมที่ไม่ซ้ำรูปแบบ มีการคิดค้นเทคนิคการเล่นใหม่ๆ ออกมาอยู่เสมอ และตอบสนองความมันส์ถึงขีดสุดได้ภายในเวลาเพียงไม่เกิน 1 ชั่วโมง ที่						ี่สำคัญช่วงเวลาแห่งการปะทะนั้นหากพลาดพลั้งเพียงเสี้ยววินาทีก็มีโอกาสพลิกเกมได้จากหน้ามือเป็นหลังมือเลยทีเดียว จึงไม่แปลกที่ได้รับการกล่าวขานถึงมากที่สุด จนพัฒนาเป็นการกีฬา e-Sports 
-							อย่างเต็มตัว มีรายการแข่งขันใหญ่ๆมากมายทั้งในและต่างประเทศ สร้างชื่ออย่างยิ่งใหญ่จนเรียกว่าไม่มีใครไม่รู้จักเกมนี้ “เกม DOTA”
+                            <br><b>เดอะวอล์กกิงเดด เป็นวิดีโอเกมกราฟิกแนวผจญภัยดรามาแบบปฏิสัมพันธ์แบ่งเป็นตอน สร้างจากหนังสือการ์ตูนชุด เดอะวอล์กกิงเดด ของโรเบิร์ต เคิร์กแมน เกมพัฒนาโดยเทลล์เทลเกมส์ ตัวเกมคาดว่าจะออกจำหน่ายปลายปี ค.ศ. 2011 แต่ถูกเลื่อนไปเป็นต้นปี ค.ศ. 2012 เพื่อต่อเวลาพัฒนาเกม ตัวเกมประกอบด้วย 5 ตอนย่อย ออกจำหน่ายระหว่างเดือนเมษายน ถึงพฤศจิกายน ค.ศ. 2012 เทลล์เทลยังได้ออกเวอร์ชันครบห้าตอนด้วย ขณะนี้เกมลงบนเครื่องเล่นเอกซ์บอกซ์ 360 เพลย์สเตชัน 3 ไมโครซอฟท์ วินโดวส์ ไอโอเอส โอเอสเท็น เพลย์สเตชันวิต้า คินเดิลไฟร์ เอชดีเอ็กซ์ และแอนดรอยด์ สำหรับเวอร์ชันอูเยอ (Ouya) มีแผนว่าจะออกจำหน่ายต้นปี ค.ศ. 2014 และเวอร์ชันเพลย์สเตชัน 4 และเอกซ์บอกซ์วัน จะออกมาทีหลัง
 						</br></b>
                            <h3>==== ตัวอย่างเกมส์ ====</h3> 
-						   <br><iframe width="560" height="315" src="https://www.youtube.com/embed/NXw6jQWPQAw" frameborder="0" allowfullscreen></iframe>
+						   <br><iframe width="560" height="315" src="https://www.youtube.com/embed/FY2vSHMMmyw" frameborder="0" allowfullscreen></iframe>
 						   <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -458,15 +453,16 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>I am Alive</h2>
+                            <h2>PES 2016</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/cake.png"class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/pes2016.png"class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3> 
-                            <br><b>I am Alive เป็นเกมชื่อดังจากฝั่งคอนโซลซึ่งได้พอร์ทเอามาให้ทางฝั่ง PC ได้เอามาเล่นกันบ้าง จริงๆ แล้วตัวเกมมีอุปสรรคหลายอย่างมาก 
-							ตั้งแต่โดนตัดงบไปจนถึงการเปลี่ยนคอนเชปเกมไปจากเดิมที่โปรโมทครั้งแรก ทำให้ตัวเกมดาวเกรดคุณภาพลงไปจนน่าเสียดาย แต่ตัวเกมก็ยังมอบความบันเทิงและความคุ้มค่าในการเล่นสูงครับ
+                            <br><b>โปรอีโวลูชันซ็อกเกอร์ 2016 ในประเทศญี่ปุ่น เป็นเกมจำลองฟุตบอลที่ได้รับการพัฒนาโดยพีอีเอส โปรดักชัน และจัดจำหน่ายโดยโคนามิสำหรับระบบไมโครซอฟท์ วินโดวส์, เพลย์สเตชัน 3, เพลย์สเตชัน 4, เอกซ์บอกซ์ 360
+							และเอกซ์บอกซ์ วัน เกมนี้เป็นภาคที่สิบห้าของซีรีส์โปรอีโวลูชันซ็อกเกอร์ โดยมีภาพบุคคลบนปกเกมคือเนย์มาร์แห่งสโมสรฟุตบอลบาร์เซโลนา
+							ปรอีโวลูชันซ็อกเกอร์ 2016 ยังเป็นการฉลองครบรอบ 20 ปีของพีอีเอส โปรดักชัน สำหรับการทำเกมฟุตบอล โดยชื่อของเกมได้เปลี่ยนจาก "เวิลด์ซ็อกเกอร์: วินนิงอีเลฟเวน" มาเป็น "โปรอีโวลูชันซ็อกเกอร์" ในทวีปเอเชีย (ยกเว้นประเทศญี่ปุ่น) และ "วินนิงอีเลฟเวน" ในประเทศญี่ปุ่นและรวมถึงภาคต่อกันมา
 							<br></b>
 							<h3>==== ตัวอย่างเกมส์ ====</h3> 
-						  <br><iframe width="560" height="315" src="https://www.youtube.com/embed/alg7Ouyfdyw" frameborder="0" allowfullscreen></iframe>
+						  <br><iframe width="560" height="315" src="https://www.youtube.com/embed/MHiqNE5CNBk" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -500,14 +496,16 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Battlefield 4</h2>
+                            <h2>Stardew Valley</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/battle4.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/stard.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
-                            <br><b>โดยจากเรื่องราวที่ได้ปล่อยออกมานั้นตัวร้ายตัวเอ้ในภาคนี้น่าจะเป็นทางฝั่งจีนนั่นเองที่เป็นชนวนในการจุดสงครามให้เริ่มขึ้น โดยผู้เล่นจะได้รับบทเป็นจ่า Daniel Recker 
-							หนึ่งในสมชิกระดับพระกาฬของหน่วย Tombstone ที่จะต้อง “ผ่านความสับสนอลหม่านที่เกิดขึ้นรอบๆตัวเพื่อช่วยความหวังสุดท้ายของสันติภาพ”</br></b>
+                            <br><b>Stardew Valley เป็นเกมแนวปลูกผัก RPG ที่ต้องใช้ชิวิตในชนบท โดยที่คุณจะได้รับมรดกเป็นฟาร์มเก่าจากปู่ของคุณที่อยู่ในหมูบ้าน Stardew Valley 
+							เมื่อคุณเริ่มเล่นคุณจะได้รับเครื่องมือและเงินเล็กน้อยเพื่อเริ่มต้นชิวิตใหม่ในฟาร์ม เริ่มด้วยการจัดการเคลียร์พื้นที่ของคุณและเริ่มทำฟาร์มปลูกผักกันได้เลย และยังมีระบบตกปลา 
+							ลงเหมืองขุดแร่ และยังจีบสาวได้อีกด้วย ในเมื่อง Stardew Valley ยังมีเทศกาลต่างๆให้ได้เล่นอีกมากมาย
+							</br></b>
                             <h3>==== ตัวอย่างเกมส์ ====</h3> 
-							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/3DdDaeSt1AA" frameborder="0" allowfullscreen></iframe>
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/zBAYsdr0FNM?list=PLbJD0APnaN3LNlHGUf9c6HHhYGj8refYy" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -541,15 +539,16 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Left 4 Dead 2</h2>
+                            <h2>Outlast</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/left4.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/out.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
-                            <br><b>เนื้อเรื่องจากภาคแรกเกิดขึ้นในช่วงสองสัปดาห์หลังการติดเชื้อ CEDA ไม่สามารถควบคุมการแพร่ระบาดได้อีกต่อไปจึงต้องขอความร่วมมือจากกองทัพมาช่วยลี้ภัยผู้คนและกำจัดผู้ติดเชื้อที่เกินความควบคุม, ผู้รอดชีวิต 4 คนใน Pennsylvania ต่อสู้เอาตัวรอดเพื่อไปยังจุด Evac จุดสุดท้าย และเดินทางขึ้นเหนือไปยัง Candy Mountain, ในภาคสอง หนึ่งสัปดาห์หลังจากภาคแรก สามสัปดาห์หลังจากการติดเชื้อ ผู้รอดชีวิตใน Georgia 4 คนต้องต่อสู้เพื่อเดินทางไปยังขบวน Evac ทางใต้
-
-ใน Left 4 Dead 2 นี้มีส่วนที่มีความเป็นเนื้อเรื่องมากขึ้น การเชื่อมต่อเนื้อเรื่องในแต่ละ Campaign นั้นมีมากขึ้น ในขณะที่่ส่วนของการใบ้เนื้อเรื่องต่างๆตามสภาพแวดล้อมและ grafitti นั้นมีน้อยลง นับว่าเป็นข้อเสียเล็กๆน้อยๆอย่างนึง ถ้าไม่ได้ใส่ใจเนื้อเรื่องก็ข้ามไปได้เลย น่าเสียดายที่บางครั้งความคิดในการเล่าเรื่องสไตล์แบบเกม Portal หรือ Left 4 Dead ภาคแรกนั้นเป็นสิ่งที่น่าสนใจ แต่ข้อเสียของมันคือการที่ผู้เล่นบางกลุ่มไม่สามารถเข้าถึงเนื้อเรื่องได้ หรือยากที่จะเข้าถึง เพราะต้องคอยเก็บรายละเอียดหยิบย่อยของเนื้อเรื่องที่กระจัดกระจายเป็นจิ๊กซอว์อยู่ทั่วตัวเกมจนบางครั้งสำหรับคนที่ตั้งใจจะติดตามเสพเนื้อเรื่องอย่างจริงๆจังๆก็ทำให้เหนื่อยเอาอยู่เมื่อต้องมานั่งคุ้ยหาที่มาที่ไปของเนื้อเรื่อง ฟังทุกๆอย่่างในเกม อ่าน graffiti ทุกแห่งที่ผ่าน และค้นตัว file game เพื่อหาบทสนทนาที่เกี่ยวข้องกับเนื้อเรื่องอีก</br><b>
+                            <br><b>เอาต์ลาสต์ เป็นวิดีโอเกมแนวสยองขวัญเอาชีวิตรอดมุมมองบุคคลที่หนึ่ง พัฒนาและจำหน่ายโดยเรดบาร์เรลส์ เกมเกี่ยวข้องกับนักข่าวสืบสวนอิสระชื่อ ไมลส์ อัปเชอร์ ซึ่งตัดสินใจเข้าไปสืบสวนในโรงพยาบาลจิตเวชแห่งหนึ่งในแดนไกลชื่อ โรงพยาบาลเมานต์แมสซิฟ ตั้งอยู่ในแนวภูเขาของเลกเคาน์ตี รัฐโคโลราโด สำหรับเนื้อหาดาวน์โหลดวิสเซิลโบลเวอร์มีเนื้อเรื่องเกี่ยวกับเวย์ลอน พาร์ก คนที่พาไมลส์ไปที่นั่นครั้งแรก
+							เอาต์ลาสต์ออกจำหน่ายลงไมโครซอฟท์ วินโดวส์ ในวันที่ 4 กันยายน ค.ศ. 2013 เพลย์สเตชัน 4 ในวันที่ 4 กุมภาพันธ์ ค.ศ. 2014 และเอกซ์บอกซ์ วัน ในวันที่ 19 มิถุนายน ค.ศ. 2014 
+							เอาต์ลาสต์ได้รับคำวิจารณ์ด้านบวก และได้รับการยกย่องในเรื่ององค์ประกอบและระบบเกมที่สยองขวัญ เกมเวอร์ชันลินุกซ์และโอเอสเท็นออกจำหน่ายภายหลังในวันที่ 31 มีนาคม ค.ศ. 2015นับถึงเดือนตุลาคม ค.ศ. 2016 เกมขายได้รวม 4 ล้านหน่วย
+							</br><b>
                             <h3>==== ตัวอย่างเกมส์ ====</h3> 
-							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/WqaPTbvU6lA" frameborder="0" allowfullscreen></iframe>
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/WNaHXRGG8hM?list=PLbJD0APnaN3LR7cH55nOhS_MVkjDpdhsS" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -583,15 +582,14 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Far Cry 3</h2>
+                            <h2>South Park</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/fra3.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/south.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
-                            <br><b>เกมฟาร์ครายภาคสามนี้ ถูกพัฒนาโดย Ubisoft Montreal ทีมงานชุดเดิมจากสองภาคแรก แถมยังเป็นทีมสร้างผู้พัฒนาเกมตระกูลทอมแคลนซี่ และซีรีส์แอสซาซินครีด รวมไปถึงเกมจากหนังอวตาร์อีกด้วย ไม่แปลกใจเลยว่าทำไมเกมภาคนี้ถึงได้รับอิทธิพลมาจากเกมอื่นหรือมีกลิ่นอายภาพยนตร์บางเรื่องผสมอยู่ โดยตัวเกมภาคใหม่ยังคงใช้เอนจิ้นตัวเดียวกับภาคก่อนแต่เป็นเวอร์ชันอัพเกรด Dunia Engine 2 ส่งผลให้ภาพกราฟฟิกถูกยกระดับขึ้นไปอีกขั้น ซึ่งต้องแลกมาด้วยสเปคคอมระดับสูง และที่สำคัญคือการ์ดจอต้องแรงจริงถึงจะเอาเกมนี้อยู่
-       
-       	เนื้อเรื่องในเกมนั้น จะกล่าวถึงวัยรุ่นชาวอเมริกันกลุ่มหนึ่ง นำโดยสามพี่น้องตระกูล Brody ที่ตัดสินใจจัดทริปพิเศษในช่วงวันหยุดยาว พาแฟนและเพื่อนเดินทางมาท่องเที่ยวยังเกาะเขตร้อนในแถบทวีปเอเชียตะวันออกเฉียงใต้ แต่ดันเกิดไอเดียแผลงชักชวนกันไปเล่นดิ่งพสุธาจนสุดท้ายพลัดหลงไปตกลงกลางเกาะลึกลับแห่งหนึ่งที่มีพวกโจรสลัดเสื้อแดงปกครองอยู่ และทำให้พวกเขาทั้ง 7 คนถูกจับตัวไปเป็นเชลย แต่โชคยังดีที่หนึ่งในนั้นหนีรอดออกมาได้ และได้รับการช่วยเหลือจากกองกำลังต่อต้านชาวพื้นเมือง จึงเกิดเป็นการผจญภัยปลุกสัญชาตญาณดิบเพื่อชิงผองเพื่อนกลับคืนมา ไปพร้อมๆกับการปลดแอกดินแดนแห่งนี้</br></b>
+                            <br><b>เซาท์พาร์ก เป็นภาพยนตร์การ์ตูนอเมริกันสร้างโดยแมตต์ สโตน และเทรย์ พาร์เกอร์ ออกฉายทาง คอเมดีเซนทรัล ตั้งแต่ปี พ.ศ. 2540 โดยเป็นเรื่องราวของนักเรียนประถม 4 คน (เริ่มเรื่องอยู่ ป.3 ปัจจุบันอยู่ ป. 4) ผจญภัยในที่ต่างๆ ภายในเมืองเล็กๆชื่อ เซาท์พาร์ก ในรัฐโคโลราโด ลักษณะตัวละครเริ่มออกแบบจากการตัดกล่องกระดาษมาประกอบเป็นรูปร่าง เนื้อเรื่องของเซาท์พาร์กจะเกี่ยวกับเหตุการณ์ปัจจุบัน โดยจะเน้นในลักษณะล้อเลียน ประชด เสียดสีสังคม
+							</br></b>
                             <h3>==== ตัวอย่างเกมส์ ====</h3> 
-							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/R1p9zhCfPTs" frameborder="0" allowfullscreen></iframe>
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/bZfnVFVUMjM" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -625,14 +623,15 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Counter-Strike: Global Offensive</h2>
+                            <h2>Mad Max</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/counter.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/mad.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
-                            <br><b>เคาน์เตอร์-สไตรก์: โกลบัลออฟเฟนซิฟ (อังกฤษ: Counter-Strike: Global Offensive, บ้างย่อเป็น CS:GO) เป็นวิดีโอเกมออนไลน์ประเภทยิงทางยุทธวิธีมุมมองบุคคลที่หนึ่ง พัฒนาโดย วาล์ว คอร์เปอเรชั่น และฮิตเดน แพทซ์ เอ็นเตอร์เทนเมนท์ ซึ่งเป็นเกมชุดที่ 4 จากแฟรนไชส์เคาน์เตอร์-สไตรก์
-							แนวยิงมุมมองบุคคลที่1 ซึ่งจะมี 2ฝั่ง คือ ผู้ต่อต้านผู้ก่อการร้าย กับ ผู้ก่อการร้าย จะมีรูปแบบการเล่นมีโหมดแตกต่างกันออกไป 1.แคสชวล 2.เดทแมตซ์ 3.ทำลายล้าง 4.คลาสสิค 5.แข่งขัน ทุกโหมดนั้น จะมีระบบสุ่มของให้กับผู้เล่นอีกด้วย</br></b>
+                            <br><b>ตัวเกม madmax นี้นั้นไม่ได้เอามาจากตัวหนังล่าสุดอย่าง madmax : fury road เลยนะครับ ไม่มีตัวเอกอย่างในหนัง สาวๆสวยๆอย่างในหนังเลยนะครับ เพียงอาศัยแต่ จักรวาลและโลก ของหนัง madmax เท่านั้น เป็นเรื่องของการ ผจญภัยของ Max ตัวเอกของเกมและหนัง (ใครนึกไม่ออก จะคล้ายๆ shadow of mordor ที่หยิบเอาส่วนหนึ่งของ lord of the ring มาทำ โดยจะมีตัวละครในหนังมาป้านเปี้ยน แนวๆนั้น) โดยตัวหนังจะเหมือนเป็นหนึ่งตอนในโลกของ madmax นั่นเอง
+							ตัวเกมจะให้เรารับบท max ชื่อเดียวกับในหนัง จะมีเส้นเรื่องหลัก โหมด story ให้เราได้เล่น แล้วใส่ระบบการบริหารจัดการทรัพยากรอย่างน้ำ ที่เอาไว้เติมพลัง และน้ำมันที่เอาไว้เติมรถคู่ใจเรา (น้ำมันเอาไปจุดระเบิดไปปาได้ด้วยนะ) ซึ่งในระหว่างที่เราเล่นไปตามเนื้อเรื่อง เราก็ต้องแวะนั่นนี่หาน้ำและน้ำมันไปตามทาง หา scrap (ชิ้นส่วนเครื่องกล) เอามาอัพเกรดรถและสกิลตัวเรา ระหว่างทางก็อาจเจอพวกตัวป่วนทั้งหลายกำลังขับรถผ่านมา หันมาโจมตีเราอย่างบ้าคลั่ง เราก็ต้องดิ้นรน ต่อสู้ หรือหนีเอาตัวรอดก็ทำได้ทั้งนั้นครับ
+							</br></b>
                             <h3>==== ตัวอย่างเกมส์ ====</h3> 
-							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/YdJsh0Iip8g" frameborder="0" allowfullscreen></iframe>
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/mYluHSeBTw8?list=PLbJD0APnaN3IRx2juhVL1NZeKuAu3xd4G" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
