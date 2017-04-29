@@ -191,7 +191,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/counter.png"  class="img-responsive" alt="Submarine">
+                        <img src="img/portfolio/Counter.png"  class="img-responsive" alt="Submarine">
                     </a>
 		
                 </div>
@@ -627,7 +627,7 @@ function userpic($uid){
                         <div class="modal-body">
                             <h2>Counter-Strike: Global Offensive</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/counter.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/Counter.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
                             <br><b>เคาน์เตอร์-สไตรก์: โกลบัลออฟเฟนซิฟ (อังกฤษ: Counter-Strike: Global Offensive, บ้างย่อเป็น CS:GO) เป็นวิดีโอเกมออนไลน์ประเภทยิงทางยุทธวิธีมุมมองบุคคลที่หนึ่ง พัฒนาโดย วาล์ว คอร์เปอเรชั่น และฮิตเดน แพทซ์ เอ็นเตอร์เทนเมนท์ ซึ่งเป็นเกมชุดที่ 4 จากแฟรนไชส์เคาน์เตอร์-สไตรก์
 							แนวยิงมุมมองบุคคลที่1 ซึ่งจะมี 2ฝั่ง คือ ผู้ต่อต้านผู้ก่อการร้าย กับ ผู้ก่อการร้าย จะมีรูปแบบการเล่นมีโหมดแตกต่างกันออกไป 1.แคสชวล 2.เดทแมตซ์ 3.ทำลายล้าง 4.คลาสสิค 5.แข่งขัน ทุกโหมดนั้น จะมีระบบสุ่มของให้กับผู้เล่นอีกด้วย</br></b>

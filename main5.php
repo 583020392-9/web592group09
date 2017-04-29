@@ -181,7 +181,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/battlefield1.png"  class="img-responsive" alt="Safe">
+                        <img src="img/portfolio/Battlefield1.png"  class="img-responsive" alt="Safe">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -583,7 +583,7 @@ function userpic($uid){
                         <div class="modal-body">
                             <h2>Battlefield 1</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/battlefield1.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/Battlefield1.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
                             <br><b>“Battlefield 1″ เป็นเกมแนวยิงแหลกมุมมองบุคคลที่ 1 อันแสนคุ้นเคยคอเกมทั่วโลก โดยทีมงานตัดสินใจหยิบเอา “หนึ่งในหน้าประวัติศาสตร์สงครามโลกที่ไม่เคยมีใครนำมาทำเป็นเกมแอคชั่นเต็มสูบ” 
 							ซึ่งจะมีสมรภูมิต่างๆให้ได้เล่นกัน โดยอ้างอิงจากภาพถ่ายในตำราสงครามโลกหลายๆแหล่ง เพื่อสร้างบรรยากาศที่สมจริง
