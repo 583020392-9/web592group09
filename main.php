@@ -351,7 +351,7 @@ function userpic($uid){
                 <div class="row">
                     <div class="footer-col col-md-4">
                         <h3>Location</h3>
-                        <p>SC 06 FACULTY OF SCIEN
+                        <p>SC 06 FACULTY OF SCIENCE
                             <br>KHON KAEN UNIVERSITY</p>
                     </div>
                     <div class="footer-col col-md-4">
