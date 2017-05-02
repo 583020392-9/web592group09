@@ -460,7 +460,7 @@ function userpic($uid){
                         <div class="modal-body">
                             <h2>I am Alive</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/cake.png"class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/alive.png"class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3> 
                             <br><b>I am Alive เป็นเกมชื่อดังจากฝั่งคอนโซลซึ่งได้พอร์ทเอามาให้ทางฝั่ง PC ได้เอามาเล่นกันบ้าง จริงๆ แล้วตัวเกมมีอุปสรรคหลายอย่างมาก 
 							ตั้งแต่โดนตัดงบไปจนถึงการเปลี่ยนคอนเชปเกมไปจากเดิมที่โปรโมทครั้งแรก ทำให้ตัวเกมดาวเกรดคุณภาพลงไปจนน่าเสียดาย แต่ตัวเกมก็ยังมอบความบันเทิงและความคุ้มค่าในการเล่นสูงครับ
