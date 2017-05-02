@@ -1,5 +1,6 @@
 <?php
  use google\appengine\api\users\UserService;
+ include_once("config.php");
  global $appid,$page,$title;
  $phpfile="work_body_$page.php";
  if(file_exists($phpfile)){
