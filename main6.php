@@ -141,7 +141,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/sniper.png"  class="img-responsive" alt="Cabin">
+                        <img src="img/portfolio/sleep.png"  class="img-responsive" alt="Cabin">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -151,7 +151,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/deads.png"  class="img-responsive" alt="Slice of cake">
+                        <img src="img/portfolio/batman.png"  class="img-responsive" alt="Slice of cake">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -161,7 +161,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/watchdog.png"  class="img-responsive" alt="Circus tent">
+                        <img src="img/portfolio/mass.png"  class="img-responsive" alt="Circus tent">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -171,7 +171,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/deadby.png"  class="img-responsive" alt="Game controller">
+                        <img src="img/portfolio/island.png"  class="img-responsive" alt="Game controller">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -181,7 +181,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/bully.png"  class="img-responsive" alt="Safe">
+                        <img src="img/portfolio/wild.png"  class="img-responsive" alt="Safe">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -191,7 +191,7 @@ function userpic($uid){
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/lucius.png"  class="img-responsive" alt="Submarine">
+                        <img src="img/portfolio/just.png"  class="img-responsive" alt="Submarine">
                     </a>
 		
                 </div>
@@ -351,7 +351,7 @@ function userpic($uid){
                 <div class="row">
                     <div class="footer-col col-md-4">
                         <h3>Location</h3>
-                        <p>SC 06 FACULTY OF SCIEN
+                        <p>SC 06 FACULTY OF SCIENCE
                             <br>KHON KAEN UNIVERSITY</p>
                     </div>
                     <div class="footer-col col-md-4">
@@ -412,17 +412,17 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Sniper Elite III</h2>
+                            <h2>Sleeping Dogs</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/sniper.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/sleep.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
-                            <br><b>สไนเปอร์ อีลีต 3 เป็นวิดีโอเกมยิงมุมมองบุคคลที่สามที่พัฒนาโดย Rebellion Developments และเผยแพร่โดย 505 Games 
-							เป็นวิดีโอเกมภาคที่สามของสไนเปอร์ อีลีต โดยภาคนี้เป็นภาคต่อจาก สไนเปอร์ อีลีต วี 2 โดย Karl Fairburne 
-							เจ้าหน้าที่ของสำนักบริการด้านยุทธศาสตร์ที่ได้ไปเข้าร่วมในการทัพแอฟริกาเหนือที่แนวรบด้านเมดิเตอร์เรเนียนในช่วงสงครามโลกครั้งที่สอง เพื่อทำลายรถถังลันด์ครอยเซอร์ พี.1000 
-							รัตต์อาวุธลับของกองทัพแอฟริกา คอร์ของนาซีเยอรมนี
+                            <br><b>คนที่เคยเล่น Gta มาคงนึกถึงเกมแนว Open world ได้ไม่ยาก สำหรับเกมนี้ก็เป็นอีกเกมหนึ่งที่ได้พยายามสร้างโลกอีกใบมาให้สำรวจถึงแม้อาจจะไม่ได้ดีเท่าเกมอื่นๆแต่ก็มีจุดเด่นที่น่าสนใจเป็นของตัวเอง
+จุดแข็งด้านหนึ่งน่าจะเป็นด้านเนื้อเรื่องที่เราจะได้สวมบทเป็น Wei shen ตำรวจลับใต้ดินที่พึ่งย้ายกลับ  มาจากอเมริกาเพื่อมาแฝงตัวในแก็งมาเฟียฮ่องกงที่ชื่อว่า Sun on yee ผ่านทางเพื่อนเก่า Jackie Ma และทำลายแก๊งนี้ให้ได้ 
+ประเด็นต่างๆในเรื่องนี้เล่าได้อย่างน่าสนใจไม่ว่าจะเป็นเรื่องของตำรวจที่แฝงตัวในแก๊งมาเฟียที่ต้องการความเชื่อใจจากสมาชิกในแก๊งแต่ในขณะเดียวกันก็ยังคงต้องทำหน้าที่ของตำรวจไปด้วย 
+รวมถึงเรื่องที่ไม่คาดคิดต่างๆ ทำให้เนื้อเรื่องของ Sleeping dog นั้นสนุกน่าติดตาม
 						</br></b>
                            <h3>==== ตัวอย่างเกมส์ ====</h3> 
-						   <br><iframe width="560" height="315" src="https://www.youtube.com/embed/C8mtwzlRqYM" frameborder="0" allowfullscreen></iframe>
+						   <br><iframe width="560" height="315" src="https://www.youtube.com/embed/MPzpgxJeok8" frameborder="0" allowfullscreen></iframe>
 						   <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -456,17 +456,17 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Dead Space 3</h2>
+                            <h2>Batman: Arkham Origins </h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/deads.png"class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/batman.png"class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3> 
-                            <br><b>เป็นวีดิโอเกมยิงปืนสามคน พัฒนาโดย Visceral Games และจัดจำหน่ายโดย Electronic Arts โดยประกาศในงาน E3 2012 ในวันที่ 4 มิถุนายน ค.ศ. 2012
-							และออกจำหน่ายในเดือนกุมภาพันธ์ ค.ศ. 2013 เป็นภาคต่อจากเดดสเปช 2 และเป็นเกมที่สามของซีรีส์เกมเดดสเปช ส่วนใหญ่ตั้งอยู่บนดาวเคราะห์แช่แข็งของ Tau Volantis 
-							เกมต่อไปนี้ตัวละครเอกคือ ไอแซค คลาร์ก และ จอห์น คาร์เวอร์ ขณะที่พวกเขาพยายามที่จะยุติการคุกคามของ Necromorphเดดสเปช 3 ได้รับการวิจารณ์อย่างดีจากนักวิจารณ์เกมมากที่สุด 
-							วิจารณ์ยกย่องการเล่นเกมของเกมที่คุ้มค่า แม้ว่าการวิจารณ์ที่รุนแรงเป็นผู้กำกับที่มุ่งเน้นในการดำเนินเรื่องความน่ากลัว เช่นเดียวกับเรื่องราวที่อ่อนแอและเลื่อนลอยเมื่อเทียบกับเกมก่อนหน้านี้
+                            <br><b>Batman: Arkham Origins เกมส์แอคชั่นผจญภัยของแบทแมนภาคล่าสุด พร้อมเปิดเผยเหล่าวายร้ายของเรื่อง ได้แก่ Cobblepot 
+							ก่อนที่กลายเป็น Penguin, Black Mask และ Deathstroke เนื้อเรื่องเกมส์ Batman: Arkham Origins กล่าวถึงช่วงวันคริสต์มาสในเมืองก็อธแฮม 
+							โดยมีเหล่านักฆ่ามือฉมังทั้ง 8 ได้รวมตัวในวันดังกล่าวเพื่อกำจัดแบทแมนให้ได้ และเกมส์ภาคนี้ได้กล่าวจะเป็นภาคก่อนหน้าของ 2 ภาค 
+							ทัั้ง Arkham Asylum และ Arkham City ผู้พากษ์เสียง Batman ของเกมส์ภาคนี้คือ Roger Craig Smith ซึ่งเคยพากษ์เป็นตัวละคร Ezio เกมส์ Assassin’s Creed 2
 							<br></b>
 							<h3>==== ตัวอย่างเกมส์ ====</h3> 
-						  <br><iframe width="560" height="315" src="https://www.youtube.com/embed/r3kQ4iF62_Q" frameborder="0" allowfullscreen></iframe>
+						  <br><iframe width="560" height="315" src="https://www.youtube.com/embed/3330PKDWG8Q" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -500,17 +500,17 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2> Watch Dogs 2 </h2>
+                            <h2> Mass Effect Andromeda </h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/watchdog.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/mass.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
-                            <br><b>วอตช์ดอกส์ 2 เป็นเกมแนวแอ็กชันผจญภัยโลกเปิด ผลิตและจำหน่ายโดยยูบิซอฟต์ เป็นภาคต่อของเกม วอตช์ดอกส์ เกมออกจำหน่ายทั่วโลกบนเครื่องไมโครซอฟท์ วินโดวส์ เพลย์สเตชัน 4 และเอกซ์บอกซ์ วัน โดยออกจำหน่ายในเดือนพฤศจิกายน ค.ศ. 2016
-							เกมเล่นในมุมมองบุคคลที่สาม สำรวจเมืองด้วยเท้าหรือยานพาหนะ ฉากในเกมเป็นเมืองที่เลียนแบบบริเวณอ่าวซานฟรานซิสโก ผู้เล่นควบคุมตัวละครมาร์คัส ฮอลโลเวย์ นักเลงคอมพิวเตอร์ที่ทำงานกับกลุ่มเจาะข้อมูล เดดเซ็ก 
-							เพื่อโค่นล้มระบบตรวจตราของเมือง การทำภารกิจให้เสร็จสมบูรณ์นั้นมีหลายวิธี 
-							และการทำภารกิจเสร็จแต่ละครั้งจะได้ยอดผู้ติดตามในเดดเซ็กเพิ่ม ระบบผู้เล่นหลายคนมีไว้สำหรับเล่นต่อสู้หนึ่งต่อหนึ่ง และเชื่อมต่อกับผู้เล่นอีกคนเพื่อกำจัดผู้เล่นที่สร้างความหายนะในเกม									
+                            <br><b>Mass Effect : Andromeda เป็นเกม Action- RPG ภาคใหม่โดยทีมงาน EA ที่เล่าเรื่องราวแยกออกมาจากไตรภาคเดิม 
+							“ไม่ใช่ภาคต่อ หรือ Spin-Off ของสามภาคแรก”โดยจะหยิบยกเอาเหตุการณ์หลังจากพวก Reaper ถูกล้างเผ่าพันธ์ไปแล้วในตอนจบของภาค 3
+หลายสิบปีต่อมา โลกเริ่มฟื้นฟูองค์ความรู้ในการเดินทางข้ามจักรวาลอีกครั้ง เมื่อดาวในระบบสุริยะนี้ไม่สามารถตอบโจทย์การเพิ่มพูนของประชากรอวกาศในดาวต่างๆได้ 
+ทำให้ต้องมีการค้นหาระบบสุริยะใหม่เพื่อการขยายจำนวนที่อยู่อาศัย…และหวยก็ไปตกอยู่ที่ระบบสุริยะ “อันโดรเมด้า”						
 							</br></b>
                             <h3>==== ตัวอย่างเกมส์ ====</h3> 
-							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/0xv7034ESJg" frameborder="0" allowfullscreen></iframe>
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/KyzbV9i3N74" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -544,16 +544,17 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2> Dead by Daylight </h2>
+                            <h2>Dead Island Riptide</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/deadby.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/island.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
-                            <br><b>Dead by Daylight  เกมมัลติเพลเยอร์ออนไลน์ โดยผู้เล่นจะต้องรับบทเป็นเหยื่อและฆาตกร หน้าที่ของเหยื่อก็คือ 
-							ทำการซ่อมเครื่องปั่นไฟตามจุดต่างๆ ในฉาก ก่อนที่จะหาทางเปิดประตูเพื่อหลบหนีออกไป ส่วนผู้เล่นที่เลือกเล่นเป็นฝ่ายฆาตกร 
-							มีหน้าที่เดียวเท่านั้น คือ สังหารเหยื่อให้มากที่สุดที่จะทำได้ 
+                            <br><b>เนื้อเรื่องนั้นเริ่มจากที่เราได้มาเที่ยวที่เกาะสุดศิวิไลแห่งหนึ่งที่เสมือนสวรรค์ของนักท่องเที่ยว แต่แล้วเมื่อเราตื่นขึ้นมาเช้าวันหนึ่งในโรงแรมที่เราพักอยู่ 
+							เกาะก็ดูเละเทะเหมือนเกิดการก่อการร้ายขึ้นยังไงยังงั้น หลังจากนั้นเราก็พบว่าซอมบี้ได้ยึดเกาะทั้งเกาะไปหมดแล้ว 
+							และเราได้ทราบทีหลังว่าตัวเรามีภูมิคุ้มกันไวรัสซอมบี้นี้โดยถึงแม้ว่าเราถูกกัดแต่เราไม่มีอาการใดๆเลย
+							สุดท้ายเราต้องหาสาเหตุของเรื่องทั้งหมด และหาทางหนีออกจากเกาะให้ได้ 
 							</br><b>
                             <h3>==== ตัวอย่างเกมส์ ====</h3> 
-							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/hpQM2bgeDeY" frameborder="0" allowfullscreen></iframe>
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/FHAzVrQzjRo" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -587,19 +588,16 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Bully</h2>
+                            <h2> theHunter: Call of the Wild </h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/bully.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/wild.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
-                            <br><b>บูลลี เป็นวิดีโอเกมแนวโอเพนเวิลด์และประเภทแอ็คชั่นผจญภัย พัฒนาโดย Rockstar Vancouver วางจำหน่ายโดย Rockstar Games 
-							สำหรับเครื่องเล่นเพลย์สเตชัน 2 ในวันที่ 17 ตุลาคม ค.ศ. 2006 โดยวางจำหน่ายเมื่อวันที่ 17 ตุลาคม 2006 สำหรับเครื่อง เพลย์สเตชัน โดยภายหลังมีเวอร์ชันรีมาสเตอร์ , 
-							ที่รู้จักกันดีใน Scholarship Editon พัฒนาโดย Rockstar New England พัฒนาโดย Rockstar New England และวางจำหน่ายเมื่อ 4 มีนาคม พ.ศ. 2552 สำหรับเครื่อง 
-							เอกซ์บอกซ์ 360 และ เครื่อง วี (เครื่องเล่นเกม) , และวางจำหน่าย 21 ตุลาคม พ.ศ. 2552 สำหรับ ไมโครซอฟท์ วินโดว์ และล่าสุดปี 2559 บูลลี่ ได้ถูกนำมา remaster 
-							ใหม่อีกครั้ง ในวาระฉลองครบรอบ10ปีของเกม โดยใช้ชื่อว่า bully aniversary edition ในระบบ ios และ android ทั้งยังปรับกราฟริคให้สวยขึ้นกว่าเดิม
-							ตัวเกมอยู่ในเมืองสุมมตินามว่า Bullworth , โดยเนื้อเรื่องจะพูดถึงนักเรียนและความพยายามของเขาถึงการจัดการระบบของโรงเรียน , ความโอเพนเวิลด์ของตัวเกมทำให้ผู้เล่นสามารถโลดเล่นในเมือง Bullworth
+                            <br><b>theHunter: Call of the Wild จะพาผู้เข้าไปสัมผัสถึงประสบการณ์การล่าสัตว์ที่สมจริงบนโลกภายในเกมกับป่าขนาดใหญ่ 50 ตารางไมล์ 
+							โดยจะมีทั้งกวาง ไบสัน จนไปถึงนกนับไม่ถ้วน แมลง สัตว์เลื้อยคลาน ให้ผู้เล่นได้เป็นส่วนหนึ่งของป่าไปเลย ตัวเกมรองรับการเล่นในโหมด 
+							single player ,multiplayer ,cooperative และ competitive ที่เล่นด้วยกันได้สูงสุด 8 คน
 							</br></b>
                             <h3>==== ตัวอย่างเกมส์ ====</h3> 
-							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/Wa8lmNPgVkg" frameborder="0" allowfullscreen></iframe>
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/Nso8KNy7cQM" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -633,16 +631,17 @@ function userpic($uid){
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Lucius</h2>
+                            <h2>Just Cause 3</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/lucius.png" class="img-centered" alt=""  height="500">
+                            <img src="img/portfolio/just.png" class="img-centered" alt=""  height="500">
 							<h3>==== รายละเอียดเกมส์ ====</h3>
-                            <br><b>เกม Lucius เกมจิตๆที่เราจะได้เล่นเป็นเด็กผีที่กำเนิดมาจากซาตาน(ในเกมเรียกว่า Lucifer) ในบ้านเศรษฐีหลังหนึ่ง ภารกิจหลักๆของเราคือการฆ่าทุกคนในบ้านโดยการทำให้เสมือนว่ามันเป็นอุบัติเหตุมากที่สุด(หรอ?)
-							เพื่อนำวิญญาณไปสังเวยให้กับซาตานนั่นเอง เกมนี้ไม่เหมาะอย่างยิ่งกับคนที่อายุต่ำกว่า 18 ปีนะครับ มีทั้งความรุนแรงและภาพโป๊อีกด้วย
+                            <br><b>เกมส์  Just Cause 3 ให้ผู้เล่นผจญภัยในลักษณะ Open World ในบรรยากาศท่ามกลางการเมืองที่ถูกปกครองโดยผู้นำเผด็ดการ 
+							ภายในเกมส์ให้ผู้เล่นรับภารกิจจากตัวละครเกมส์ต่างสถานที่ต่างๆอันเหนือชั้น และเดินทางด้วยยานพาหนะต่างๆบนแถบเกาะเขตร้อน 
+							ไม่ว่าจะเป็น รถยนต์ประเภทต่างๆ เครื่องร่อน ร่มชูชีพ เป็นต้น ด้านสถานที่เกมส์มีการอิงสถานที่ชายฝั่งคอสฅาริก้า แถบเมดิเตอร์เรเนียน พร้อมสร้างความสวยงามและตรึงใจกับผู้เล่นเกมส์ PC
 							
 							</br></b>
                             <h3>==== ตัวอย่างเกมส์ ====</h3> 
-							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/A1tEYD-Ebcs" frameborder="0" allowfullscreen></iframe>
+							<br><iframe width="560" height="315" src="https://www.youtube.com/embed/71kd60HV-N0" frameborder="0" allowfullscreen></iframe>
 							<ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
