@@ -19,6 +19,7 @@
   $rec['name']=$_POST['name'];
   $rec['price']=$_POST['price'];
   $rec['detail']=$_POST['detail'];
+  $rec['video']=$_POST['video'];
   
   if($_FILES['pic']['tmp_name']!=''){
      $picno = 1;

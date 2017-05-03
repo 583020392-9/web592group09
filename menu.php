@@ -4,8 +4,7 @@
      ["home","หน้าหลัก"],
 	 ["product","สินค้า"],
 	 ["about","ผู้จัดทำ"]	 
-   ];
-   
+   ]; 
  ?>
  <ul class="nav navbar-nav">
   <?php
@@ -15,7 +14,7 @@
 	 if($m[0]=="product") 
 	    include("menu_product.php");
 	 else 
-	    echo "<li $cs><a href=\"main.php?p=$m[0]\">$m[1]</a></li>";
+	    echo "<li $cs><a href=\"main.php?p=$m[0]#$m[0]\">$m[1]</a></li>";
 	}
   ?>
 </ul>

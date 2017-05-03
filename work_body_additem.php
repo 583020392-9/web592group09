@@ -35,12 +35,12 @@
 <input class="form-control" type='text' name='price' value="<?= $prec[price] ?>">
 </div>
 <div class="form-group col-md-6">
-<label for="detail">Detail</label>
-<textarea class="form-control" name='detail' rows=15><?= htmlspecialchars($prec['detail']) ?></textarea>
-</div>
-<div class="form-group col-md-6">
 <label for="file">Picture</label>
 <input class="form-control" type='file' name='pic'>
+</div>
+<div class="form-group col-md-6">
+<label for="detail">Detail</label>
+<textarea class="form-control" name='detail' rows=15><?= htmlspecialchars($prec['detail']) ?></textarea>
 </div>
 <div class="form-group col-md-12">
 <button class="btn btn-primary"> Save </button>
