@@ -16,7 +16,7 @@
       echo '<div class="container">';
 	 echo ' <div class="row">
                 <div class="col-lg-12 text-center">';
-                 echo " <h2>สินค้ากลุ่ม  $grec[name]</h2>";
+                 echo " <h2>แนวเกม $grec[name]</h2>";
                   echo '   <hr class="star-primary">
                 </div>
             </div>
@@ -88,9 +88,7 @@
                                     echo ' </strong>';
                                  echo '</li>';
                            echo '  </ul>';
-						    echo '<div class="container"> '; 
-										include("work_feedback.php"); 
-								 echo '</div>'; 
+						   
                           echo'  <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>';
 					echo '</div>';
 				echo '</div>';

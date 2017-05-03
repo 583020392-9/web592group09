@@ -78,7 +78,7 @@ function userpic($uid){
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Project Group09</a>
+          <a class="navbar-brand" href="main.php">Project Group09</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
 		 <?php 
@@ -93,9 +93,14 @@ function userpic($uid){
 	readfile("gs://$appid/header.html");
 	?>
 	<div class="container">
-	<?php include_once("work_body.php");
-	  include("work_feedback.php"); ?> 
+	<div class='panel panel-success'>
+	<div class='panel-body'>
+	<?php include("work_body.php");
+	 ?> 
 	</div> 
+	</div> 
+	</div> 
+	
 	
 	
 
