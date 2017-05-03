@@ -1,1 +1,4 @@
-﻿<h1>หน้าหลัก</h1>
+﻿
+<?php
+	readfile("gs://$appid/home.html");
+	?>

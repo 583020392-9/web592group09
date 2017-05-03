@@ -1,6 +1,4 @@
-﻿
-
-<?php
+﻿<?php
  $gid=$_GET['g'];
  use google\appengine\api\users\UserService;
  use google\appengine\api\cloud_storage\CloudStorageTools;
@@ -26,9 +24,8 @@
  foreach($list as $pid=>$prec){
 		$imgtag="";
 	 if(isset($prec['picfile']) && file_exists($prec['picfile'])){
-		 $img=CloudStorageTools::getImageServingUrl($prec['picfile'],["size"=>120]);
-		 $imgtag = "<img src ='$img' class='img-responsive'>";
-		 $imgtag2 = "<img src ='$img' class='img-centered' height='500'>";
+		 $img=CloudStorageTools::getImageServingUrl($prec['picfile'],["size"=>500]);
+		 $imgtag = "<img src ='$img' width='360' height='512'>";
 		
 	 }
               echo ' <div class="col-sm-4 portfolio-item">';
@@ -55,8 +52,7 @@
 			    foreach($list as $pid=>$prec){
 		$imgtag="";
 	 if(isset($prec['picfile']) && file_exists($prec['picfile'])){
-		 $img=CloudStorageTools::getImageServingUrl($prec['picfile'],["size"=>120]);
-		 $imgtag = "<img src ='$img' class='img-responsive'>";
+		 $img=CloudStorageTools::getImageServingUrl($prec['picfile'],["size"=>500]);
 		 $imgtag2 = "<img src ='$img' class='img-centered' height='500'>";
 	 }
 	echo '<div class="portfolio-modal modal fade" id="portfolioModal'.$i.'" tabindex="-1" role="dialog" aria-hidden="true">';
@@ -92,6 +88,9 @@
                                     echo ' </strong>';
                                  echo '</li>';
                            echo '  </ul>';
+						    echo '<div class="container"> '; 
+										include("work_feedback.php"); 
+								 echo '</div>'; 
                           echo'  <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>';
 					echo '</div>';
 				echo '</div>';
@@ -107,4 +106,5 @@
  if(UserService::isCurrentUserAdmin()){
     echo "<a href='main.php?p=additem&g=$gid'>Add</a>";
  }
+ 
  ?>

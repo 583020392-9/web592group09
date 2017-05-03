@@ -4,6 +4,7 @@ use google\appengine\api\users\UserService;
 
 global $appid,$user,$userdata;
 
+
 if(!$user) return;
 if($_POST["nick"]){
  $uid = $user->getUserId();
@@ -45,3 +46,8 @@ if($_POST["nick"]){
 </div>
 <button class="btn btn-primary"> Save </button>
 </form>
+<div class="container"> 
+<div class="col-sm-6 col-md-offset-4"> 
+    <?php include("work_user.php"); ?> 
+</div>
+</div>

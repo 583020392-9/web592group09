@@ -92,10 +92,13 @@ function userpic($uid){
 	<?php
 	readfile("gs://$appid/header.html");
 	?>
-    
- <div class="container">
-<?php include_once("work_body.php"); ?>
-</div>
+	<div class="container">
+	<?php include_once("work_body.php");
+	  include("work_feedback.php"); ?> 
+	</div> 
+	
+	
+
 
    <!-- Footer -->
 	
@@ -103,6 +106,7 @@ function userpic($uid){
    <?php
 	readfile("gs://$appid/footer.html");
 	if (UserService::isCurrentUserAdmin()){
+	echo "<br><a href='?p=edit&file=home.html' class='btn btn-default'>แก้ไข home</a>";
 	echo "<br><a href='?p=edit&file=header.html' class='btn btn-default'>แก้ไข header</a>";
 	echo "<br><a href='?p=edit&file=footer.html' class='btn btn-default'>แก้ไข footer</a>";
 	echo "<br><a href='main.php?p=editgroup' class='btn btn-default'>แก้ไข group</a>";

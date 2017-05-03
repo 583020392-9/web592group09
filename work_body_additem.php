@@ -22,24 +22,21 @@
  <input class="form-control" type='text' name='gid' value="<?= $gid ?>">
 </div>
 <div class="form-group col-md-2" >
- <label for="pid">Product Id</label>
+ <label for="pid">Game Id</label>
  <input class="form-control" type='text' name='pid' value="<?= $pid ?>">
 </div>
 
 <div class="form-group col-md-6">
-<label for="name">Product Name</label>
+<label for="name">Game Name</label>
 <input class="form-control" type='text' name='name' value="<?= $prec[name] ?>">
 </div>
-<div class="form-group col-md-2">
-<label for="price">Price</label>
-<input class="form-control" type='text' name='price' value="<?= $prec[price] ?>">
-</div>
+
 <div class="form-group col-md-6">
-<label for="file">Picture</label>
+<label for="file">Game Picture</label>
 <input class="form-control" type='file' name='pic'>
 </div>
 <div class="form-group col-md-6">
-<label for="detail">Detail</label>
+<label for="detail">Game Detail</label>
 <textarea class="form-control" name='detail' rows=15><?= htmlspecialchars($prec['detail']) ?></textarea>
 </div>
 <div class="form-group col-md-12">
