@@ -2,6 +2,7 @@
 <?php
  $appid = "web592group09.appspot.com";
  $page = $_GET['p'];
+ error_reporting(0);
  if($page=='') $page='main';
  $title = $page;
  function panel_include($title,$file,$ptype='default'){
