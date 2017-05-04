@@ -19,7 +19,7 @@ if($_POST["nick"]){
  $json = json_encode($userdata, JSON_PRETTY_PRINT);
  $userfile = "gs://$appid/user_$uid.json";
  file_put_contents($userfile,$json);
- echo "<br>บันทึกเรียบร ้อย <a href='main.php?p=useredit'>ตกลง</a>";
+ echo "<br>บันทึกเรียบร้อย <a href='main.php?p=useredit'>ตกลง</a>";
  return;
 }
 ?>

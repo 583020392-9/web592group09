@@ -31,7 +31,111 @@ function userpic($uid){
 <html lang="en">
 
 <head>
+<style>
+	{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
 
+.slider{
+	overflow: hidden;
+	height: 350px;
+}
+
+.slider figure div{
+	width: 20%;
+	float: left;
+}
+
+.slider figure img{
+	width: 100%;
+	float: left;
+}
+
+.slider figure{
+	position: relative;
+	width: 500%;
+	margin: 0;
+	left: 0;
+	animation: 20s slidy infinite;
+}
+
+@keyframes slidy{
+	0%{
+		left: 0%
+	}
+
+	10%{
+		left: 0%;
+	}
+
+	12%{
+		left: -100%;
+	}
+
+	22%{
+		left: -100%;
+	}
+
+	24%{
+		left: -200%;
+	}
+
+	34%{
+		left: -200%;
+	}
+
+	36%{
+		left: -300%;
+	}
+
+	46%{
+		left: -300%;
+	}
+
+	48%{
+		left: -400%;
+	}
+
+	58%{
+		left: -400%;
+	}
+
+	60%{
+		left: -300%;
+	}
+
+	70%{
+		left: -300%;
+	}
+
+	72%{
+		left: -200%;
+	}
+
+	82%{
+		left: -200%;
+	}
+
+	84%{
+		left: -100%;
+	}
+
+	94%{
+		left: -100%;
+	}
+
+	96%{
+		left: 0%;
+	}
+
+	100%{
+		left: 0%;
+	}
+}
+</style>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -49,7 +153,8 @@ function userpic($uid){
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-	
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<!-- Icon -->
 	<link rel="icon" href="game-controller.png">
 
