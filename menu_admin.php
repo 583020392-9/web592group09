@@ -7,3 +7,6 @@
                 <li><a href="main.php?p=edit&file=footer.txt">Edit Footer</a></li>
               </ul>
             </li>
+			
+
+	

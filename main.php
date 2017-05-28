@@ -198,17 +198,19 @@ function userpic($uid){
 	<?php
 	readfile("gs://$appid/header.html");
 	?>
-	<div class="container">
-	<div class='panel panel-success'>
-	<div class='panel-body'>
-	<?php include("work_body.php");
-	 ?> 
-	</div> 
-	</div> 
-	</div> 
+	<div class="container"> 
+<div class="col-sm-6 col-md-offset-5"> 
+    <?php include("work_user.php"); ?> 
+</div>
+</div>
+	 <div class="container">
+<?php
+   include_once("work_body.php");  
+?>
 	
-	
-	
+    </div> 
+
+
 
 
    <!-- Footer -->

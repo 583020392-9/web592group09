@@ -15,11 +15,13 @@ if($_POST["nick"]){
  if($_FILES['pic']['tmp_name']!=''){
  $userpic = "gs://$appid/{$uid}.jpg";
  move_uploaded_file($_FILES['pic']['tmp_name'],$userpic);
- }
+ } 
+
  $json = json_encode($userdata, JSON_PRETTY_PRINT);
  $userfile = "gs://$appid/user_$uid.json";
  file_put_contents($userfile,$json);
- echo "<br>บันทึกเรียบร้อย <a href='main.php?p=useredit'>ตกลง</a>";
+ echo "<br>บันทึกเรียบร้อย <a href='main.php?p=useredit' >ตกลง</a>";
+
  return;
 }
 ?>
@@ -45,9 +47,7 @@ if($_POST["nick"]){
 <input class="form-control" type='file' name='pic'>
 </div>
 <button class="btn btn-primary"> Save </button>
+
+
+
 </form>
-<div class="container"> 
-<div class="col-sm-6 col-md-offset-4"> 
-    <?php include("work_user.php"); ?> 
-</div>
-</div>
